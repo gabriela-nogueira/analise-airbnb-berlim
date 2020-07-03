@@ -7,9 +7,9 @@ O Airbnb é uma plataforma onde anfitriões podem anunciar suas acomodações de
 
 Nesta análise, foram utilizadas as seguintes bibliotecas:  
 
-**- pandas**
-**- matplotlib**
-**- seaborn**  
+**- pandas**  
+**- matplotlib**  
+**- seaborn**    
 
 A partir da análise, podemos identificar as seguintes questões:  
 
