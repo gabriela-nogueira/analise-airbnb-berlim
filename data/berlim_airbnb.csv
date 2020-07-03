@@ -454,7 +454,6 @@
 587,none,52.53076,13.42871,Apartment,Entire home/apt,4,2.0,2.0,100.0,Prenzlauer Berg,5,1125
 588,none,52.5349,13.34786,Apartment,Private room,1,1.0,1.0,42.0,Moabit,2,90
 590,none,52.54544,13.42596,Apartment,Entire home/apt,4,1.0,2.0,92.0,Prenzlauer Berg,3,120
-591,none,52.53248000000001,13.41508,Apartment,Entire home/apt,4,1.0,2.0,10.0,Prenzlauer Berg,4,14
 592,none,52.47326999999999,13.423229999999998,Apartment,Entire home/apt,4,1.0,2.0,63.0,Neukölln,7,1125
 593,none,52.49086,13.430620000000001,Apartment,Entire home/apt,2,1.0,1.0,50.0,Neukölln,1,28
 594,none,52.47449,13.29145,Apartment,Entire home/apt,3,1.0,1.0,45.0,Schmargendorf,3,90
@@ -769,7 +768,6 @@
 996,none,52.50679,13.314879999999999,Condominium,Entire home/apt,5,1.0,2.0,155.0,Charlottenburg,4,730
 998,none,52.518069999999994,13.44651,Apartment,Private room,2,1.0,1.0,27.0,Friedrichshain,7,1125
 999,none,52.48925,13.391720000000001,Apartment,Entire home/apt,2,1.0,1.0,60.0,Kreuzberg,3,1125
-1000,none,52.518069999999994,13.465029999999999,Apartment,Private room,2,1.0,1.0,14.0,Friedrichshain,2,1125
 1001,none,52.4775,13.45629,Condominium,Entire home/apt,2,1.5,1.0,36.0,Neukölln,3,1125
 1003,none,52.50516999999999,13.45696,Apartment,Private room,2,1.0,1.0,35.0,Friedrichshain,5,10
 1004,none,52.53868000000001,13.382439999999999,Other,Entire home/apt,1,1.0,1.0,40.0,Wedding,3,1125
@@ -1048,7 +1046,6 @@
 1356,none,52.463119999999996,13.37176,Apartment,Private room,4,1.0,1.0,60.0,Tempelhof,1,31
 1358,none,52.555119999999995,13.41484,Apartment,Entire home/apt,2,1.0,1.0,49.0,Prenzlauer Berg,2,60
 1359,none,52.48975,13.364189999999999,Apartment,Private room,2,1.0,1.0,38.0,Schöneberg,5,31
-1361,none,52.54365,13.37519,Apartment,Private room,2,1.0,1.0,12.0,Wedding,1,14
 1362,none,52.542359999999995,13.422139999999999,Apartment,Private room,2,1.0,1.0,27.0,Prenzlauer Berg,1,1125
 1363,none,52.5553,13.41715,Apartment,Entire home/apt,11,2.0,5.0,199.0,Pankow,3,21
 1365,none,52.51984,13.41271,Apartment,Entire home/apt,3,1.0,2.0,120.0,Mitte,4,21
@@ -1301,8 +1298,6 @@
 1674,none,52.54512,13.434510000000001,Apartment,Entire home/apt,2,1.0,1.0,50.0,Prenzlauer Berg,4,16
 1675,none,52.50968,13.44616,Hostel,Shared room,6,0.0,1.0,17.0,Friedrichshain,1,365
 1676,none,52.50976,13.4461,Hostel,Shared room,5,0.0,1.0,15.0,Friedrichshain,1,365
-1677,none,52.50985,13.44612,Hostel,Shared room,8,0.0,1.0,12.0,Friedrichshain,1,365
-1678,none,52.50985,13.44612,Hostel,Shared room,7,0.0,1.0,9.0,Friedrichshain,1,365
 1679,none,52.50985,13.44612,Hostel,Private room,2,1.0,1.0,65.0,Friedrichshain,1,365
 1680,none,52.53295,13.41245,Apartment,Private room,1,1.0,1.0,28.0,Prenzlauer Berg,2,21
 1681,none,52.539190000000005,13.416260000000001,Apartment,Shared room,1,1.0,1.0,39.0,Prenzlauer Berg,2,15
@@ -2293,7 +2288,6 @@
 2821,none,52.48875,13.354989999999999,Apartment,Entire home/apt,3,1.0,2.0,75.0,Schöneberg,5,1125
 2822,none,52.54278000000001,13.424829999999998,Apartment,Entire home/apt,4,1.0,1.0,75.0,Prenzlauer Berg,2,1125
 2823,none,52.4707,13.4341,Apartment,Private room,2,1.0,1.0,41.0,Neukölln,1,1125
-2824,none,52.51641,13.46766,Apartment,Private room,1,1.0,1.0,10.0,Friedrichshain,1,1125
 2825,none,52.48924,13.36079,Apartment,Private room,3,1.0,1.0,55.0,Schöneberg,2,3
 2828,none,52.487840000000006,13.387970000000001,Apartment,Entire home/apt,2,1.0,1.0,69.0,Kreuzberg,4,1125
 2830,none,52.4803,13.42709,Loft,Entire home/apt,4,1.0,1.0,130.0,Neukölln,2,1125
@@ -2354,7 +2348,6 @@
 2890,none,52.492169999999994,13.44524,Apartment,Entire home/apt,6,2.0,5.0,160.0,Alt-Treptow,5,1125
 2891,none,52.53395,13.406120000000001,Apartment,Private room,2,1.0,1.0,65.0,Mitte,2,1125
 2892,none,52.49103,13.42162,Apartment,Entire home/apt,2,1.0,1.0,70.0,Kreuzberg,4,1125
-2894,none,52.53102,13.32801,Apartment,Entire home/apt,2,1.0,1.0,10.0,Moabit,1,1125
 2895,none,52.53793,13.42525,Apartment,Entire home/apt,4,1.0,2.0,109.0,Prenzlauer Berg,3,20
 2896,none,52.48058,13.42141,Apartment,Private room,4,1.0,1.0,65.0,Neukölln,2,1125
 2897,none,52.48347,13.372979999999998,Apartment,Private room,1,1.0,1.0,35.0,Tempelhof,1,1125
@@ -2966,7 +2959,6 @@
 3579,none,52.487590000000004,13.429739999999999,Apartment,Private room,1,1.0,1.0,45.0,Neukölln,1,1125
 3580,none,52.47464,13.449420000000002,Apartment,Private room,2,1.0,1.0,28.0,Neukölln,1,1125
 3581,none,52.51022,13.463420000000001,Apartment,Private room,1,1.0,1.0,35.0,Friedrichshain,3,1125
-3582,none,52.46575,13.3764,Apartment,Private room,1,2.0,1.0,14.0,Tempelhof,1,1125
 3583,none,52.540659999999995,13.41686,Apartment,Entire home/apt,2,1.0,1.0,42.0,Prenzlauer Berg,1,1125
 3584,none,52.54844,13.405389999999999,Apartment,Entire home/apt,4,1.0,1.0,110.0,Prenzlauer Berg,2,1125
 3585,none,52.5078,13.49591,Apartment,Entire home/apt,2,1.0,1.0,50.0,Rummelsburg,1,1125
@@ -3107,7 +3099,6 @@
 3737,none,52.500930000000004,13.42045,Apartment,Private room,1,1.0,1.0,27.0,Kreuzberg,6,10
 3738,none,52.48508,13.43043,Apartment,Private room,2,1.0,1.0,55.0,Neukölln,3,1125
 3739,none,52.4783,13.447989999999999,Apartment,Private room,1,1.0,1.0,23.0,Neukölln,1,1125
-3740,none,52.528059999999996,13.316770000000002,Apartment,Private room,1,1.0,1.0,14.0,Moabit,3,1125
 3742,none,52.496469999999995,13.38606,Condominium,Private room,3,1.0,1.0,25.0,Kreuzberg,2,10
 3743,none,52.56288000000001,13.377429999999999,Apartment,Private room,2,1.0,1.0,15.0,Reinickendorf,3,1125
 3744,none,52.480259999999994,13.48156,Apartment,Entire home/apt,1,1.0,1.0,20.0,Plänterwald,1,1125
@@ -3191,7 +3182,6 @@
 3832,none,52.525569999999995,13.328970000000002,Apartment,Private room,2,1.0,1.0,22.0,Moabit,6,14
 3833,none,52.49159,13.38499,Apartment,Private room,1,1.5,1.0,30.0,Kreuzberg,1,1125
 3834,none,52.49075,13.41285,Apartment,Private room,2,1.0,1.0,45.0,Kreuzberg,3,1125
-3835,none,52.51054,13.50247,Apartment,Private room,1,1.0,1.0,11.0,Rummelsburg,4,15
 3836,none,52.55866999999999,13.38044,Condominium,Private room,2,1.0,1.0,40.0,Wedding,3,7
 3837,none,52.5199,13.48925,Townhouse,Entire home/apt,3,2.0,2.0,140.0,Lichtenberg,3,1125
 3839,none,52.546209999999995,13.39149,Apartment,Private room,1,1.0,1.0,20.0,Wedding,3,1125
@@ -3252,7 +3242,6 @@
 3900,none,52.49251999999999,13.387170000000001,Apartment,Private room,2,1.0,1.0,34.0,Kreuzberg,2,21
 3901,none,52.56673000000001,13.39805,Apartment,Entire home/apt,5,1.0,3.0,45.0,Pankow,7,1125
 3902,none,52.51321,13.468810000000001,Apartment,Private room,1,1.0,1.0,30.0,Friedrichshain,1,1125
-3903,none,52.51648,13.44036,Apartment,Private room,1,1.5,1.0,11.0,Friedrichshain,1,1125
 3904,none,52.52551999999999,13.34409,Apartment,Private room,2,1.5,1.0,25.0,Moabit,2,1125
 3906,none,52.50407,13.4189,Apartment,Private room,2,1.0,1.0,85.0,Kreuzberg,3,1125
 3907,none,52.52697,13.32906,Apartment,Private room,2,1.0,1.0,32.0,Moabit,1,1125
@@ -3471,7 +3460,6 @@
 4144,none,52.54662,13.40385,Apartment,Entire home/apt,2,1.0,1.0,50.0,Prenzlauer Berg,4,9
 4145,none,52.538880000000006,13.426520000000002,Apartment,Entire home/apt,2,1.0,1.0,60.0,Prenzlauer Berg,6,1125
 4146,none,52.526669999999996,13.392829999999998,Apartment,Entire home/apt,2,1.0,1.0,65.0,Mitte,2,1125
-4147,none,52.5546,13.39231,Apartment,Private room,1,1.0,1.0,12.0,Wedding,1,1125
 4148,none,52.504369999999994,13.445910000000001,Apartment,Entire home/apt,2,1.0,1.0,59.0,Friedrichshain,3,1125
 4149,none,52.48639,13.42477,Apartment,Private room,2,1.0,1.0,35.0,Neukölln,3,365
 4150,none,52.519169999999995,13.455689999999999,Apartment,Entire home/apt,4,1.0,2.0,34.0,Friedrichshain,1,18
@@ -3748,7 +3736,6 @@
 4445,none,52.53508000000001,13.43235,Apartment,Entire home/apt,2,1.0,1.0,49.0,Prenzlauer Berg,2,1125
 4446,none,52.555330000000005,13.38641,Apartment,Private room,2,1.0,1.0,15.0,Wedding,7,35
 4447,none,52.53004,13.44559,Apartment,Entire home/apt,2,1.0,2.0,80.0,Prenzlauer Berg,2,1125
-4448,none,52.46591,13.441220000000001,Apartment,Private room,2,1.0,1.0,13.0,Neukölln,1,1125
 4449,none,52.52418,13.333870000000001,Condominium,Shared room,3,1.0,1.0,59.0,Moabit,1,1125
 4450,none,52.50095,13.42813,Apartment,Private room,3,1.0,1.0,37.0,Kreuzberg,3,1125
 4452,none,52.5422,13.42271,Apartment,Entire home/apt,4,1.0,1.0,81.0,Prenzlauer Berg,5,1125
@@ -3800,7 +3787,6 @@
 4503,none,52.517309999999995,13.46495,Apartment,Entire home/apt,2,1.0,1.0,45.0,Friedrichshain,4,1125
 4504,none,52.498819999999995,13.35821,Apartment,Private room,3,1.5,1.0,40.0,Schöneberg,3,1125
 4506,none,52.48785,13.434479999999999,Apartment,Entire home/apt,4,1.0,1.0,95.0,Neukölln,3,1125
-4507,none,52.53872,13.407639999999999,House,Private room,4,1.5,1.0,9.0,Prenzlauer Berg,1,1125
 4508,none,52.50618000000001,13.32538,Apartment,Entire home/apt,2,1.0,1.0,105.0,Charlottenburg,2,1125
 4509,none,52.474140000000006,13.425020000000002,Apartment,Entire home/apt,2,1.0,1.0,35.0,Neukölln,1,1125
 4511,none,52.46975,13.43316,Loft,Entire home/apt,3,1.0,1.0,45.0,Neukölln,1,1125
@@ -4011,7 +3997,6 @@
 4752,none,52.5546,13.46834,Loft,Entire home/apt,2,1.0,1.0,69.0,Weißensee,4,12
 4753,none,52.50735,13.30131,Apartment,Private room,1,1.0,1.0,25.0,Charlottenburg,5,1125
 4754,none,52.54825,13.35723,Apartment,Shared room,1,1.0,1.0,33.0,Wedding,2,17
-4755,none,52.55959,13.380920000000001,Apartment,Shared room,2,1.0,1.0,10.0,Wedding,7,15
 4756,none,52.524269999999994,13.3314,Apartment,Private room,5,2.0,1.0,31.0,Moabit,2,14
 4758,none,52.50212,13.364310000000001,Apartment,Private room,2,1.5,1.0,24.0,Tiergarten,1,3
 4759,none,52.45958,13.478279999999998,Apartment,Entire home/apt,2,8.0,1.0,50.0,Baumschulenweg,2,1125
@@ -4312,7 +4297,6 @@
 5084,none,52.5234,13.448329999999999,Apartment,Private room,2,1.0,1.0,45.0,Friedrichshain,2,1125
 5085,none,52.536,13.42101,Apartment,Entire home/apt,1,1.0,1.0,40.0,Prenzlauer Berg,1,1125
 5086,none,52.478790000000004,13.42455,Apartment,Private room,1,1.0,1.0,24.0,Neukölln,2,1125
-5087,none,52.48463,13.44723,Apartment,Private room,1,1.0,1.0,14.0,Neukölln,5,30
 5088,none,52.53695,13.39785,Apartment,Entire home/apt,2,1.0,1.0,55.0,Mitte,4,1125
 5089,none,52.498740000000005,13.440170000000002,Apartment,Private room,2,1.0,1.0,31.0,Kreuzberg,2,12
 5090,none,52.536069999999995,13.40864,House,Entire home/apt,4,1.0,1.0,75.0,Prenzlauer Berg,3,1125
@@ -4363,7 +4347,6 @@
 5139,none,52.4907,13.43404,Apartment,Private room,2,1.0,1.0,25.0,Neukölln,5,1125
 5140,none,52.528259999999996,13.3673,Apartment,Entire home/apt,2,1.0,1.0,55.0,Moabit,4,7
 5141,none,52.488009999999996,13.3806,Condominium,Entire home/apt,2,1.0,1.0,65.0,Kreuzberg,1,1125
-5142,none,52.543730000000004,13.41894,Apartment,Entire home/apt,1,1.0,1.0,10.0,Prenzlauer Berg,1,1125
 5143,none,52.488519999999994,13.39342,Apartment,Shared room,2,1.0,1.0,20.0,Kreuzberg,4,12
 5144,none,52.49041,13.382779999999999,Apartment,Entire home/apt,4,1.0,1.0,55.0,Kreuzberg,2,1125
 5145,none,52.5878,13.280529999999999,Apartment,Private room,2,1.0,1.0,34.0,Tegel,3,1125
@@ -4533,7 +4516,6 @@
 5334,none,52.48149,13.45234,Apartment,Private room,1,1.0,1.0,20.0,Neukölln,5,1125
 5335,none,52.52646,13.448970000000001,Apartment,Entire home/apt,4,1.0,2.0,40.0,Friedrichshain,1,1125
 5337,none,52.51642,13.4703,Apartment,Private room,2,1.0,1.0,30.0,Friedrichshain,3,1125
-5338,none,52.47221,13.444339999999999,Apartment,Private room,2,1.0,1.0,13.0,Neukölln,1,30
 5339,none,52.490809999999996,13.3966,Loft,Entire home/apt,3,1.0,1.0,62.0,Kreuzberg,4,35
 5341,none,52.4307,13.365070000000001,Apartment,Private room,1,1.0,1.0,16.0,Lankwitz,2,1125
 5342,none,52.54988,13.347010000000001,Apartment,Private room,2,1.5,1.0,27.0,Wedding,3,30
@@ -4590,7 +4572,6 @@
 5402,none,52.53994,13.390310000000001,Apartment,Private room,3,1.0,1.0,43.0,Wedding,2,1125
 5403,none,52.490759999999995,13.430029999999999,Apartment,Private room,2,1.0,1.0,20.0,Neukölln,1,1125
 5405,none,52.5207,13.44519,Apartment,Private room,1,1.0,1.0,50.0,Friedrichshain,2,89
-5406,none,52.46572,13.43315,Apartment,Private room,2,2.0,1.0,13.0,Neukölln,5,1125
 5407,none,52.51096,13.424179999999998,Loft,Entire home/apt,3,1.0,1.0,155.0,Mitte,3,1125
 5408,none,52.49101999999999,13.406270000000001,Apartment,Entire home/apt,2,1.0,0.0,40.0,Kreuzberg,3,21
 5409,none,52.54179,13.40944,Apartment,Entire home/apt,4,1.0,2.0,40.0,Prenzlauer Berg,4,1125
@@ -4616,9 +4597,7 @@
 5432,none,52.516459999999995,13.28805,Apartment,Private room,2,1.0,1.0,50.0,Charlottenburg,1,1125
 5433,none,52.55401,13.34842,Apartment,Entire home/apt,4,1.0,2.0,99.0,Wedding,5,6
 5434,none,52.517030000000005,13.318579999999999,Apartment,Entire home/apt,4,1.0,1.0,70.0,Charlottenburg,5,1125
-5435,none,52.46485,13.374479999999998,Apartment,Private room,2,2.0,1.0,13.0,Tempelhof,1,1125
 5436,none,52.510619999999996,13.303770000000002,Apartment,Entire home/apt,4,1.0,2.0,200.0,Charlottenburg,1,1125
-5437,none,52.48202,13.42844,Apartment,Private room,1,1.0,1.0,14.0,Neukölln,5,1125
 5438,none,52.54173,13.42336,Apartment,Entire home/apt,2,1.0,1.0,62.0,Prenzlauer Berg,4,1125
 5440,none,52.552859999999995,13.414670000000001,Apartment,Private room,1,1.0,1.0,24.0,Prenzlauer Berg,1,1125
 5441,none,52.54022,13.356060000000001,Apartment,Private room,2,1.5,1.0,15.0,Wedding,5,1125
@@ -4764,7 +4743,6 @@
 5604,none,52.49135,13.4277,Apartment,Private room,1,1.0,1.0,45.0,Neukölln,4,21
 5605,none,52.47911,13.44728,Apartment,Entire home/apt,2,1.0,1.0,53.0,Neukölln,1,1125
 5606,none,52.498490000000004,13.4462,Apartment,Entire home/apt,10,2.0,4.0,300.0,Kreuzberg,2,30
-5607,none,52.53999,13.41586,Apartment,Shared room,1,1.0,1.0,12.0,Prenzlauer Berg,1,1125
 5608,none,52.505919999999996,13.51394,Apartment,Private room,2,1.0,1.0,40.0,Friedrichsfelde,1,1125
 5609,none,52.538230000000006,13.397910000000001,Apartment,Entire home/apt,2,1.0,1.0,70.0,Mitte,1,1125
 5610,none,52.50492,13.43471,Apartment,Entire home/apt,4,1.0,0.0,41.0,Kreuzberg,1,1125
@@ -5033,7 +5011,6 @@
 5912,none,52.4829,13.431329999999999,Apartment,Entire home/apt,2,1.0,1.0,25.0,Neukölln,1,1125
 5913,none,52.511340000000004,13.394639999999999,Apartment,Entire home/apt,4,1.0,2.0,55.0,Mitte,5,1125
 5914,none,52.524319999999996,13.41373,Apartment,Entire home/apt,3,1.5,2.0,85.0,Mitte,1,1125
-5915,none,52.514109999999995,13.276,Apartment,Private room,2,1.0,1.0,14.0,Westend,1,1125
 5917,none,52.4814,13.42175,Apartment,Entire home/apt,4,1.0,2.0,35.0,Neukölln,1,1125
 5918,none,52.50806,13.467239999999999,Apartment,Entire home/apt,2,1.0,0.0,30.0,Friedrichshain,1,7
 5919,none,52.449169999999995,13.27658,Apartment,Entire home/apt,2,1.0,1.0,50.0,Dahlem,1,1125
@@ -5121,7 +5098,6 @@
 6013,none,52.508759999999995,13.29987,Apartment,Entire home/apt,2,1.0,1.0,75.0,Charlottenburg,2,190
 6014,none,52.52109,13.45091,Apartment,Private room,2,1.0,1.0,23.0,Friedrichshain,2,1125
 6015,none,52.51311,13.469779999999998,Apartment,Private room,1,1.0,1.0,25.0,Friedrichshain,1,34
-6016,none,52.48206,13.43781,Apartment,Private room,1,1.0,1.0,11.0,Neukölln,1,1125
 6017,none,52.55138,13.41399,Apartment,Entire home/apt,4,1.0,2.0,69.0,Prenzlauer Berg,1,1125
 6018,none,52.493,13.43879,Apartment,Private room,1,1.0,1.0,15.0,Kreuzberg,1,1125
 6020,none,52.513690000000004,13.44806,Apartment,Entire home/apt,4,1.0,2.0,50.0,Friedrichshain,1,1125
@@ -5149,7 +5125,6 @@
 6045,none,52.48655,13.391860000000001,Apartment,Private room,4,1.0,1.0,80.0,Kreuzberg,1,1125
 6047,none,52.48137,13.44101,Apartment,Private room,2,1.0,1.0,30.0,Neukölln,1,1125
 6048,none,52.548809999999996,13.402779999999998,Apartment,Private room,3,1.0,1.0,15.0,Prenzlauer Berg,7,42
-6049,none,52.49633000000001,13.50927,Apartment,Private room,1,1.0,1.0,12.0,Friedrichsfelde,7,30
 6050,none,52.45973000000001,13.4275,Apartment,Entire home/apt,4,1.0,1.0,39.0,Britz,1,1125
 6051,none,52.487030000000004,13.385470000000002,Apartment,Private room,2,1.0,1.0,25.0,Kreuzberg,1,1125
 6052,none,52.55641,13.222579999999999,Boat,Entire home/apt,5,1.0,2.0,210.0,Haselhorst,2,1125
@@ -5159,7 +5134,6 @@
 6056,none,52.48259,13.44404,Apartment,Private room,2,1.0,1.0,17.0,Neukölln,4,1125
 6057,none,52.51396,13.461979999999999,Apartment,Entire home/apt,2,1.0,1.0,22.0,Friedrichshain,1,1125
 6058,none,52.539280000000005,13.418339999999999,Apartment,Private room,4,1.0,2.0,91.0,Prenzlauer Berg,2,1125
-6060,none,52.550380000000004,13.3847,Apartment,Private room,3,1.5,1.0,9.0,Wedding,7,30
 6061,none,52.4821,13.352129999999999,Apartment,Private room,2,1.0,1.0,28.0,Schöneberg,2,1125
 6062,none,52.481190000000005,13.4273,Apartment,Private room,3,1.0,1.0,26.0,Neukölln,1,1125
 6063,none,52.51025,13.49434,Apartment,Entire home/apt,2,1.0,0.0,30.0,Lichtenberg,7,21
@@ -5251,8 +5225,6 @@
 6166,none,52.48803,13.417270000000002,Apartment,Entire home/apt,2,1.0,2.0,50.0,Kreuzberg,4,8
 6167,none,52.53386999999999,13.42084,Apartment,Entire home/apt,6,1.0,2.0,100.0,Prenzlauer Berg,1,15
 6168,none,52.496219999999994,13.42116,Condominium,Private room,2,2.0,1.0,40.0,Kreuzberg,2,1125
-6169,none,52.54745,13.35658,Apartment,Private room,1,1.0,1.0,12.0,Wedding,1,1125
-6170,none,52.424640000000004,13.47609,Apartment,Private room,2,1.5,1.0,9.0,Gropiusstadt,1,1125
 6171,none,52.50866,13.30476,Apartment,Entire home/apt,2,1.0,1.0,50.0,Charlottenburg,5,7
 6172,none,52.49485,13.3182,Apartment,Entire home/apt,3,1.5,2.0,88.0,Wilmersdorf,4,1125
 6173,none,52.57501,13.362,Apartment,Private room,2,1.0,1.0,15.0,Reinickendorf,2,1125
@@ -5261,7 +5233,6 @@
 6176,none,52.49719,13.414370000000002,Apartment,Private room,2,1.0,1.0,30.0,Kreuzberg,5,1125
 6177,none,52.55636,13.38732,Apartment,Private room,1,1.0,1.0,18.0,Wedding,3,180
 6178,none,52.52862,13.38875,Apartment,Entire home/apt,4,1.0,1.0,72.0,Mitte,1,1125
-6179,none,52.53601999999999,13.358260000000001,Apartment,Private room,1,3.0,1.0,10.0,Moabit,6,1125
 6180,none,52.53216,13.43474,Apartment,Entire home/apt,2,1.0,1.0,90.0,Prenzlauer Berg,4,1125
 6181,none,52.482780000000005,13.4337,Apartment,Private room,2,1.5,1.0,25.0,Neukölln,2,1125
 6182,none,52.5117,13.416329999999999,Condominium,Private room,1,2.0,1.0,15.0,Mitte,1,1125
@@ -5302,7 +5273,6 @@
 6221,none,52.51044,13.45814,Apartment,Entire home/apt,6,1.0,2.0,109.0,Friedrichshain,3,90
 6222,none,52.48259,13.35261,Apartment,Entire home/apt,1,1.0,1.0,50.0,Schöneberg,4,1125
 6223,none,52.48255,13.43631,Apartment,Private room,1,1.0,1.0,15.0,Neukölln,1,1125
-6224,none,52.46614,13.39086,Apartment,Private room,1,1.0,1.0,14.0,Tempelhof,1,1125
 6225,none,52.44486,13.303410000000001,Apartment,Entire home/apt,2,1.0,1.0,45.0,Lichterfelde,4,1125
 6226,none,52.4835,13.43762,Apartment,Private room,1,1.0,1.0,48.0,Neukölln,1,1125
 6227,none,52.488609999999994,13.419070000000001,Apartment,Entire home/apt,3,1.5,1.0,123.0,Kreuzberg,7,20
@@ -5323,8 +5293,6 @@
 6245,none,52.59924,13.295020000000001,House,Private room,2,1.0,1.0,39.0,Tegel,1,1125
 6246,none,52.55449,13.4192,Apartment,Entire home/apt,4,1.0,2.0,59.0,Pankow,3,1125
 6247,none,52.545159999999996,13.432210000000001,Condominium,Entire home/apt,4,1.0,1.0,60.0,Prenzlauer Berg,2,1125
-6248,none,52.55031999999999,13.359160000000001,Apartment,Private room,1,1.0,1.0,14.0,Wedding,6,1125
-6249,none,52.51566999999999,13.46275,Apartment,Private room,1,1.0,1.0,12.0,Friedrichshain,1,1125
 6250,none,52.536190000000005,13.429820000000001,Apartment,Entire home/apt,4,1.0,0.0,32.0,Prenzlauer Berg,1,1125
 6251,none,52.5344,13.34949,Apartment,Private room,2,1.0,1.0,32.0,Moabit,2,1125
 6252,none,52.46533,13.42702,Condominium,Private room,2,1.5,1.0,29.0,Neukölln,1,1125
@@ -5365,7 +5333,6 @@
 6290,none,52.55818000000001,13.39051,Apartment,Private room,2,1.0,1.0,30.0,Wedding,2,14
 6291,none,52.52867,13.388320000000002,Apartment,Entire home/apt,2,1.0,1.0,79.0,Mitte,1,1125
 6293,none,52.55851,13.385520000000001,Apartment,Entire home/apt,1,1.0,1.0,27.0,Wedding,7,27
-6294,none,52.546440000000004,13.4112,Apartment,Private room,1,1.0,1.0,14.0,Prenzlauer Berg,1,1125
 6295,none,52.509640000000005,13.2893,Apartment,Entire home/apt,2,1.0,1.0,40.0,Charlottenburg,5,1125
 6296,none,52.533519999999996,13.34821,Apartment,Private room,2,1.0,1.0,25.0,Moabit,1,1125
 6297,none,52.53585,13.380770000000002,Apartment,Entire home/apt,4,1.0,2.0,110.0,Mitte,3,90
@@ -5379,12 +5346,10 @@
 6305,none,52.54915,13.449329999999998,Apartment,Shared room,2,1.0,1.0,40.0,Weißensee,2,7
 6306,none,52.5219,13.40434,Apartment,Entire home/apt,3,1.0,1.0,59.0,Mitte,2,1125
 6307,none,52.54974,13.34733,Apartment,Private room,3,1.0,1.0,30.0,Wedding,1,1125
-6308,none,52.478390000000005,13.448210000000001,Apartment,Private room,1,1.0,1.0,10.0,Neukölln,1,1125
 6309,none,52.535090000000004,13.39895,Apartment,Entire home/apt,3,1.0,1.0,50.0,Mitte,3,1125
 6310,none,52.50104,13.44006,Apartment,Entire home/apt,3,1.0,2.0,110.0,Kreuzberg,3,1125
 6311,none,52.53686999999999,13.410479999999998,Apartment,Entire home/apt,2,1.0,1.0,40.0,Prenzlauer Berg,1,1125
 6313,none,52.53256,13.38221,Apartment,Entire home/apt,6,2.0,3.0,300.0,Mitte,3,28
-6315,none,52.476530000000004,13.44648,Apartment,Private room,1,1.0,1.0,11.0,Neukölln,1,1125
 6316,none,52.502280000000006,13.42874,Apartment,Entire home/apt,4,1.0,2.0,70.0,Kreuzberg,5,1125
 6317,none,52.537580000000005,13.48554,Apartment,Private room,2,1.0,1.0,35.0,Alt-Hohenschönhausen,1,1125
 6318,none,52.477830000000004,13.424079999999998,Condominium,Private room,1,1.0,1.0,27.0,Neukölln,3,1125
@@ -5472,7 +5437,6 @@
 6413,none,52.48104,13.43019,Apartment,Entire home/apt,4,1.0,2.0,43.0,Neukölln,4,1125
 6414,none,52.47793000000001,13.441239999999999,Condominium,Private room,2,1.0,1.0,25.0,Neukölln,3,1125
 6415,none,52.53205,13.394020000000001,Apartment,Entire home/apt,2,1.0,1.0,99.0,Mitte,1,1125
-6417,none,52.47861999999999,13.436739999999999,Apartment,Private room,1,1.0,1.0,12.0,Neukölln,2,1125
 6418,none,52.503280000000004,13.48068,Apartment,Private room,2,1.0,1.0,42.0,Rummelsburg,3,6
 6419,none,52.47492,13.48131,Apartment,Entire home/apt,4,1.0,2.0,40.0,Plänterwald,5,30
 6420,none,52.468340000000005,13.433979999999998,Apartment,Private room,2,1.0,1.0,19.0,Neukölln,3,15
@@ -5548,7 +5512,6 @@
 6497,none,52.52485,13.40904,Apartment,Entire home/apt,9,1.0,2.0,80.0,Mitte,2,1124
 6498,none,52.52691,13.350470000000001,Apartment,Private room,2,1.0,1.0,34.0,Moabit,3,1125
 6499,none,52.49912,13.44563,Apartment,Private room,2,2.5,1.0,36.0,Kreuzberg,3,10
-6500,none,52.49881,13.41411,Apartment,Private room,2,1.5,1.0,13.0,Kreuzberg,4,1125
 6501,none,52.508959999999995,13.4759,Guesthouse,Entire home/apt,5,1.0,1.0,99.0,Lichtenberg,3,28
 6502,none,52.544369999999994,13.36775,Apartment,Entire home/apt,2,1.0,1.0,30.0,Wedding,3,1125
 6503,none,52.49869,13.4183,Apartment,Private room,1,2.0,1.0,21.0,Kreuzberg,2,1125
@@ -5771,7 +5734,6 @@
 6756,none,52.46626,13.44,Apartment,Entire home/apt,5,1.5,3.0,125.0,Neukölln,2,1125
 6757,none,52.469809999999995,13.43622,Apartment,Private room,2,1.0,1.0,35.0,Neukölln,1,1125
 6758,none,52.49759,13.443029999999998,Apartment,Private room,2,1.5,1.0,25.0,Kreuzberg,1,6
-6759,none,52.535309999999996,13.475579999999999,Apartment,Private room,2,1.0,1.0,14.0,Alt-Hohenschönhausen,2,7
 6760,none,52.53481,13.40349,Apartment,Entire home/apt,4,1.0,1.0,80.0,Mitte,4,1125
 6761,none,52.54175,13.44251,Apartment,Entire home/apt,2,1.0,1.0,50.0,Prenzlauer Berg,1,1125
 6763,none,52.521840000000005,13.32456,Apartment,Entire home/apt,3,1.0,1.0,249.0,Charlottenburg,3,1125
@@ -6012,7 +5974,6 @@
 7021,none,52.52952,13.39657,Apartment,Private room,1,1.0,1.0,43.0,Mitte,2,1125
 7022,none,52.607490000000006,13.442420000000002,House,Entire home/apt,8,2.0,5.0,119.0,Französisch Buchholz,5,21
 7023,none,52.51628,13.28907,Apartment,Private room,2,1.0,1.0,30.0,Charlottenburg,2,180
-7024,none,52.56649,13.38374,Apartment,Private room,2,1.0,1.0,10.0,Wedding,1,6
 7025,none,52.47623000000001,13.425770000000002,Apartment,Private room,8,2.0,2.0,165.0,Neukölln,1,1125
 7026,none,52.491130000000005,13.421270000000002,Apartment,Private room,1,1.0,1.0,29.0,Kreuzberg,1,40
 7027,none,52.442069999999994,13.70856,Bungalow,Entire home/apt,4,1.0,1.0,75.0,Rahnsdorf,3,1125
@@ -6093,10 +6054,8 @@
 7117,none,52.469640000000005,13.44614,Loft,Private room,2,1.0,1.0,30.0,Neukölln,5,1125
 7118,none,52.505680000000005,13.29556,Apartment,Entire home/apt,2,0.5,1.0,35.0,Charlottenburg,6,1125
 7119,none,52.530809999999995,13.38785,Condominium,Entire home/apt,2,1.0,1.0,65.0,Mitte,4,10
-7120,none,52.54759,13.35043,Apartment,Shared room,2,1.0,1.0,10.0,Wedding,2,1125
 7121,none,52.50938000000001,13.296529999999999,Condominium,Private room,1,1.0,1.0,17.0,Charlottenburg,7,31
 7122,none,52.51869,13.446760000000001,Apartment,Entire home/apt,3,1.0,1.0,130.0,Friedrichshain,3,1125
-7123,none,52.476369999999996,13.43912,Apartment,Private room,3,1.0,1.0,14.0,Neukölln,4,1125
 7124,none,52.49625,13.29424,Other,Private room,2,1.0,1.0,30.0,Halensee,2,29
 7125,none,52.49929,13.33482,Apartment,Entire home/apt,3,1.0,1.0,90.0,Wilmersdorf,2,4
 7126,none,52.42371,13.203610000000001,Apartment,Entire home/apt,4,1.0,2.0,80.0,Nikolassee,5,1125
@@ -6142,7 +6101,6 @@
 7171,none,52.51008,13.390789999999999,Apartment,Private room,3,1.0,1.0,50.0,Mitte,1,1125
 7172,none,52.54152,13.41014,Apartment,Private room,2,1.0,1.0,28.0,Prenzlauer Berg,2,1125
 7173,none,52.48106,13.32575,Apartment,Entire home/apt,2,1.0,1.0,38.0,Wilmersdorf,6,9
-7174,none,52.50583,13.46499,Apartment,Private room,1,1.0,1.0,14.0,Friedrichshain,7,8
 7176,none,52.52159,13.33087,Apartment,Private room,2,1.0,1.0,60.0,Moabit,2,50
 7177,none,52.551840000000006,13.40368,Apartment,Private room,4,1.0,2.0,55.0,Prenzlauer Berg,2,7
 7178,none,52.49185,13.42164,Apartment,Private room,2,1.0,1.0,35.0,Kreuzberg,2,28
@@ -6249,7 +6207,6 @@
 7289,none,52.544869999999996,13.34842,Apartment,Entire home/apt,3,1.0,1.0,80.0,Wedding,4,9
 7291,none,52.53298,13.42319,Apartment,Private room,2,1.0,1.0,85.0,Prenzlauer Berg,2,1125
 7293,none,52.505880000000005,13.46439,Apartment,Entire home/apt,2,1.0,1.0,75.0,Friedrichshain,3,14
-7294,none,52.549209999999995,13.36359,Apartment,Private room,2,1.0,1.0,12.0,Wedding,3,1125
 7295,none,52.48579,13.43818,Apartment,Private room,1,1.0,1.0,18.0,Neukölln,7,1125
 7296,none,52.53363,13.34929,Apartment,Private room,2,1.5,1.0,25.0,Moabit,1,2
 7297,none,52.551080000000006,13.424970000000002,Apartment,Private room,2,0.5,1.0,41.0,Prenzlauer Berg,2,1125
@@ -6267,7 +6224,6 @@
 7310,none,52.46474,13.44481,Apartment,Private room,2,2.0,1.0,20.0,Neukölln,6,30
 7311,none,52.54976,13.4276,Apartment,Private room,1,1.0,1.0,35.0,Prenzlauer Berg,1,3
 7312,none,52.55883000000001,13.41716,Apartment,Private room,2,1.0,1.0,30.0,Pankow,1,1125
-7313,none,52.41568,13.48841,Apartment,Private room,2,1.0,1.0,9.0,Rudow,2,7
 7314,none,52.5076,13.468129999999999,Apartment,Private room,1,1.0,1.0,20.0,Friedrichshain,7,20
 7315,none,52.49349,13.43643,Apartment,Private room,2,2.0,1.0,69.0,Kreuzberg,2,20
 7316,none,52.500209999999996,13.44585,Apartment,Entire home/apt,2,1.0,1.0,80.0,Kreuzberg,3,14
@@ -6554,7 +6510,6 @@
 7639,none,52.52423,13.450870000000002,Apartment,Private room,2,1.0,1.0,25.0,Friedrichshain,1,1125
 7640,none,52.54776,13.46091,Apartment,Entire home/apt,2,1.0,0.0,62.0,Weißensee,4,28
 7642,none,52.49126,13.38615,Apartment,Private room,2,1.0,1.0,21.0,Kreuzberg,6,1125
-7643,none,52.45117,13.319370000000001,Apartment,Private room,2,1.0,1.0,14.0,Steglitz,5,1125
 7644,none,52.46825,13.43679,Apartment,Private room,2,2.0,1.0,20.0,Neukölln,7,20
 7645,none,52.49216,13.4497,Apartment,Private room,2,1.0,1.0,26.0,Alt-Treptow,4,30
 7646,none,52.497780000000006,13.353320000000002,Apartment,Entire home/apt,2,1.0,0.0,69.0,Schöneberg,1,365
@@ -6605,7 +6560,6 @@
 7699,none,52.552780000000006,13.367320000000001,Apartment,Private room,2,1.0,1.0,30.0,Wedding,1,1125
 7700,none,52.52206999999999,13.463270000000001,Apartment,Entire home/apt,2,1.0,0.0,50.0,Prenzlauer Berg,3,1125
 7701,none,52.542790000000004,13.41225,Apartment,Private room,2,1.0,1.0,25.0,Prenzlauer Berg,3,1125
-7702,none,52.46768,13.58955,Apartment,Private room,1,1.0,1.0,13.0,Köpenick,7,25
 7703,none,52.46864,13.42995,Apartment,Private room,2,1.0,1.0,35.0,Neukölln,5,1125
 7704,none,52.55205,13.390089999999999,Apartment,Entire home/apt,4,1.0,2.0,110.0,Wedding,7,42
 7706,none,52.4921,13.41603,Apartment,Entire home/apt,4,1.0,2.0,73.0,Kreuzberg,3,10
@@ -6742,7 +6696,6 @@
 7850,none,52.47421,13.44635,Apartment,Entire home/apt,3,1.0,1.0,35.0,Neukölln,2,12
 7851,none,52.49471,13.433270000000002,Apartment,Entire home/apt,5,1.0,3.0,100.0,Kreuzberg,4,1125
 7852,none,52.483630000000005,13.43128,Apartment,Entire home/apt,4,1.0,2.0,79.0,Neukölln,3,1125
-7853,none,52.463919999999995,13.3787,Apartment,Private room,2,1.0,1.0,12.0,Tempelhof,5,1125
 7854,none,52.526030000000006,13.40741,Apartment,Private room,2,1.0,1.0,65.0,Mitte,3,1125
 7855,none,52.53233,13.41076,Apartment,Entire home/apt,3,1.0,1.0,75.0,Prenzlauer Berg,5,14
 7856,none,52.53886,13.404739999999999,Apartment,Entire home/apt,3,1.0,1.0,110.0,Mitte,3,1125
@@ -6780,7 +6733,6 @@
 7890,none,52.49375,13.416939999999999,Apartment,Entire home/apt,2,1.5,1.0,57.0,Kreuzberg,2,1125
 7891,none,52.515930000000004,13.46979,Apartment,Private room,2,1.0,1.0,50.0,Friedrichshain,4,1125
 7892,none,52.51856,13.465370000000002,Guest suite,Private room,3,1.0,2.0,45.0,Friedrichshain,5,10
-7893,none,52.55195,13.416160000000001,Condominium,Private room,1,1.0,1.0,14.0,Prenzlauer Berg,3,1125
 7894,none,52.52012,13.262479999999998,Apartment,Private room,4,1.0,2.0,60.0,Westend,2,5
 7895,none,52.537319999999994,13.43571,Apartment,Private room,2,1.0,1.0,35.0,Prenzlauer Berg,1,1125
 7896,none,52.50263,13.39985,Apartment,Entire home/apt,3,1.0,1.0,60.0,Kreuzberg,6,60
@@ -6795,7 +6747,6 @@
 7906,none,52.52326,13.452910000000001,Apartment,Private room,1,1.0,1.0,40.0,Friedrichshain,1,1125
 7907,none,52.5497,13.4089,Apartment,Entire home/apt,4,1.0,2.0,80.0,Prenzlauer Berg,5,1125
 7908,none,52.52189,13.29734,Apartment,Entire home/apt,4,1.0,1.0,110.0,Charlottenburg,3,1125
-7909,none,52.53629,13.383,Apartment,Private room,2,1.0,1.0,10.0,Mitte,1,1
 7910,none,52.50966,13.446660000000001,Apartment,Private room,2,2.0,1.0,42.0,Friedrichshain,3,1125
 7911,none,52.49301,13.36621,Apartment,Private room,2,1.0,1.0,20.0,Schöneberg,2,1125
 7912,none,52.503780000000006,13.478670000000001,Apartment,Entire home/apt,2,1.0,2.0,60.0,Rummelsburg,2,1125
@@ -7100,7 +7051,6 @@
 8267,none,52.47685,13.419139999999999,Condominium,Private room,4,1.0,1.0,30.0,Neukölln,1,1125
 8268,none,52.512980000000006,13.382179999999998,Apartment,Entire home/apt,4,1.0,2.0,170.0,Mitte,2,1125
 8269,none,52.522819999999996,13.40489,Apartment,Private room,2,1.0,1.0,55.0,Mitte,1,10
-8270,none,52.51319,13.483770000000002,Apartment,Private room,1,1.0,1.0,12.0,Lichtenberg,1,30
 8271,none,52.51761,13.424929999999998,Hostel,Private room,1,1.5,1.0,75.0,Mitte,1,365
 8272,none,52.489369999999994,13.36251,Apartment,Entire home/apt,2,1.0,0.0,65.0,Schöneberg,7,61
 8273,none,52.47818,13.37432,House,Private room,2,1.0,1.0,23.0,Tempelhof,5,1125
@@ -7173,7 +7123,6 @@
 8352,none,52.49604,13.387979999999999,Apartment,Entire home/apt,2,1.0,0.0,45.0,Kreuzberg,4,1125
 8354,none,52.52851999999999,13.447429999999999,Apartment,Entire home/apt,2,1.0,0.0,50.0,Prenzlauer Berg,2,1125
 8355,none,52.53233,13.40435,Apartment,Entire home/apt,8,1.0,4.0,119.0,Mitte,4,16
-8356,none,52.51136999999999,13.31661,Apartment,Private room,1,1.0,1.0,13.0,Charlottenburg,2,8
 8358,none,52.47449,13.45289,Apartment,Private room,2,1.0,2.0,50.0,Neukölln,3,30
 8359,none,52.4845,13.359570000000001,Apartment,Private room,2,1.0,1.0,45.0,Schöneberg,7,90
 8360,none,52.483340000000005,13.36028,Apartment,Private room,2,1.0,1.0,52.0,Schöneberg,5,40
@@ -7220,7 +7169,6 @@
 8407,none,52.536719999999995,13.3583,Apartment,Private room,2,1.0,1.0,30.0,Moabit,1,1124
 8408,none,52.53573000000001,13.35736,Apartment,Private room,2,1.0,1.0,15.0,Moabit,4,1125
 8409,none,52.5566,13.46415,Condominium,Entire home/apt,4,2.0,2.0,139.0,Weißensee,7,1125
-8410,none,52.564719999999994,13.21628,Apartment,Shared room,1,1.0,1.0,12.0,Hakenfelde,1,7
 8411,none,52.56912,13.365070000000001,Apartment,Private room,2,1.0,1.0,19.0,Reinickendorf,1,30
 8412,none,52.48706,13.32731,Apartment,Private room,3,1.0,1.0,25.0,Wilmersdorf,2,1125
 8413,none,52.58752,13.4013,Apartment,Entire home/apt,4,1.0,2.0,120.0,Niederschönhausen,3,1125
@@ -7587,7 +7535,6 @@
 8829,none,52.487919999999995,13.438020000000002,Apartment,Entire home/apt,3,1.0,1.0,105.0,Neukölln,2,1125
 8830,none,52.53481,13.4351,Apartment,Entire home/apt,4,1.0,1.0,53.0,Prenzlauer Berg,2,30
 8831,none,52.50918000000001,13.45926,Apartment,Private room,2,1.0,1.0,35.0,Friedrichshain,7,31
-8832,none,52.5138,13.46986,Apartment,Private room,2,1.0,1.0,12.0,Friedrichshain,1,15
 8833,none,52.5072,13.26035,House,Private room,2,1.5,1.0,25.0,Westend,2,8
 8834,none,52.543409999999994,13.412729999999998,Apartment,Entire home/apt,5,1.0,2.0,99.0,Prenzlauer Berg,4,8
 8835,none,52.48995,13.449679999999999,Apartment,Entire home/apt,2,1.0,1.0,32.0,Alt-Treptow,2,31
@@ -8401,7 +8348,6 @@
 9753,none,52.5622,13.48272,House,Entire home/apt,6,2.0,3.0,249.0,Weißensee,2,7
 9754,none,52.51765,13.312560000000001,Apartment,Entire home/apt,2,1.0,1.0,65.0,Charlottenburg,1,600
 9756,none,52.46661999999999,13.427589999999999,Apartment,Private room,2,1.0,1.0,42.0,Neukölln,2,1125
-9758,none,52.504059999999996,13.34675,Apartment,Private room,1,1.0,1.0,10.0,Tiergarten,1,1125
 9759,none,52.47541,13.423070000000001,Apartment,Entire home/apt,2,1.0,1.0,100.0,Neukölln,3,365
 9760,none,52.49057,13.387429999999998,Apartment,Private room,1,1.0,1.0,22.0,Kreuzberg,4,30
 9761,none,52.498940000000005,13.369489999999999,Apartment,Private room,2,1.0,0.0,42.0,Tiergarten,2,1125
@@ -8544,7 +8490,6 @@
 9914,none,52.517759999999996,13.29313,Apartment,Private room,2,2.0,1.0,35.0,Charlottenburg,1,14
 9915,none,52.534119999999994,13.380270000000001,Apartment,Private room,1,1.0,1.0,49.0,Mitte,2,4
 9916,none,52.50011,13.44121,House,Private room,2,1.0,1.0,33.0,Kreuzberg,1,28
-9917,none,52.46784,13.33844,Apartment,Private room,2,2.0,1.0,11.0,Schöneberg,7,1125
 9918,none,52.53598,13.399270000000001,Apartment,Entire home/apt,2,1.0,0.0,70.0,Mitte,6,1125
 9919,none,52.565540000000006,13.217620000000002,Apartment,Private room,2,1.0,1.0,35.0,Hakenfelde,1,1125
 9920,none,52.58344,13.37681,Apartment,Entire home/apt,2,1.0,1.0,48.0,Niederschönhausen,2,14
@@ -8562,7 +8507,6 @@
 9936,none,52.4873,13.34939,Apartment,Entire home/apt,1,1.0,1.0,29.0,Schöneberg,2,175
 9937,none,52.49585,13.322339999999999,Apartment,Entire home/apt,4,1.0,1.0,125.0,Wilmersdorf,2,1125
 9938,none,52.532219999999995,13.402870000000002,Condominium,Entire home/apt,2,1.0,0.0,90.0,Mitte,3,90
-9939,none,52.46799,13.442720000000001,Apartment,Private room,1,1.0,0.0,14.0,Neukölln,1,21
 9941,none,52.53937,13.402070000000002,Apartment,Entire home/apt,3,1.0,1.0,74.0,Mitte,2,1125
 9942,none,52.48652,13.438629999999998,Apartment,Entire home/apt,2,1.0,0.0,50.0,Neukölln,3,1125
 9943,none,52.51096999999999,13.47635,Apartment,Private room,2,1.5,1.0,25.0,Lichtenberg,2,60
@@ -8661,7 +8605,6 @@
 10044,none,52.6208,13.48719,House,Private room,2,1.0,1.0,25.0,Karow,2,90
 10047,none,52.5113,13.467789999999999,Apartment,Entire home/apt,2,1.0,1.0,65.0,Friedrichshain,2,1125
 10048,none,52.48652,13.43211,Apartment,Private room,1,1.0,1.0,34.0,Neukölln,1,1125
-10049,none,52.565290000000005,13.325170000000002,Apartment,Private room,2,1.0,1.0,10.0,Reinickendorf,1,30
 10050,none,52.50229,13.493120000000001,Apartment,Private room,2,1.0,0.0,17.0,Rummelsburg,4,20
 10051,none,52.54781,13.45041,Apartment,Private room,1,1.0,1.0,25.0,Weißensee,5,1125
 10054,none,52.55112,13.417670000000001,Apartment,Entire home/apt,4,1.0,1.0,62.0,Prenzlauer Berg,5,16
@@ -8671,7 +8614,6 @@
 10058,none,52.55254,13.384220000000001,Apartment,Private room,2,1.0,1.0,32.0,Wedding,1,1125
 10059,none,52.430009999999996,13.188770000000002,Condominium,Private room,1,1.0,1.0,30.0,Nikolassee,1,14
 10060,none,52.47728000000001,13.42348,Apartment,Private room,2,1.0,1.0,45.0,Neukölln,1,1125
-10061,none,52.51145,13.50448,Apartment,Private room,1,1.0,1.0,12.0,Rummelsburg,3,14
 10062,none,52.4799,13.44506,Condominium,Private room,2,1.0,1.0,35.0,Neukölln,1,7
 10063,none,52.430209999999995,13.18997,Condominium,Private room,2,1.0,1.0,49.0,Nikolassee,1,7
 10064,none,52.49978,13.45909,Apartment,Private room,1,1.0,1.0,40.0,Friedrichshain,2,1125
@@ -9479,7 +9421,6 @@
 10959,none,52.505019999999995,13.34159,Apartment,Entire home/apt,4,1.0,1.0,99.0,Tiergarten,6,1125
 10960,none,52.5203,13.52503,Serviced apartment,Entire home/apt,4,1.0,1.0,110.0,Marzahn,4,365
 10961,none,52.51826,13.526629999999999,Serviced apartment,Entire home/apt,5,1.0,1.0,130.0,Marzahn,4,365
-10962,none,52.44745,13.38219,Apartment,Private room,1,1.0,1.0,14.0,Mariendorf,7,15
 10964,none,52.487730000000006,13.40869,Apartment,Private room,1,1.0,1.0,35.0,Neukölln,5,13
 10965,none,52.512,13.411489999999999,Apartment,Entire home/apt,2,1.0,1.0,69.0,Mitte,4,13
 10966,none,52.4951,13.4288,Apartment,Entire home/apt,4,1.0,2.0,85.0,Kreuzberg,3,10
@@ -9651,7 +9592,6 @@
 11155,none,52.4741,13.446660000000001,Apartment,Entire home/apt,3,1.0,0.0,300.0,Neukölln,2,1125
 11156,none,52.47877,13.44806,Apartment,Private room,2,1.0,1.0,40.0,Neukölln,1,12
 11157,none,52.52525,13.4531,Apartment,Private room,3,1.0,1.0,26.0,Friedrichshain,1,1125
-11158,none,52.468469999999996,13.44489,Apartment,Private room,1,1.0,1.0,14.0,Neukölln,4,1125
 11159,none,52.50914,13.45207,Apartment,Entire home/apt,2,1.0,0.0,55.0,Friedrichshain,2,30
 11160,none,52.51868,13.409429999999999,Apartment,Entire home/apt,2,1.0,1.0,90.0,Mitte,2,1125
 11161,none,52.575390000000006,13.31388,Apartment,Private room,2,1.0,1.0,25.0,Reinickendorf,3,1125
@@ -9745,7 +9685,6 @@
 11259,none,52.48576,13.45459,Apartment,Entire home/apt,4,1.0,2.0,90.0,Alt-Treptow,4,8
 11260,none,52.49383,13.42039,Apartment,Private room,2,1.0,1.0,55.0,Kreuzberg,1,29
 11261,none,52.54306,13.422310000000001,Apartment,Private room,5,1.0,2.0,65.0,Prenzlauer Berg,3,1125
-11262,none,52.51189,13.46822,Apartment,Entire home/apt,3,1.0,1.0,10.0,Friedrichshain,2,7
 11263,none,52.57017,13.39581,Guesthouse,Entire home/apt,6,1.5,2.0,103.0,Pankow,2,1125
 11265,none,52.480419999999995,13.434439999999999,Apartment,Private room,1,1.0,1.0,17.0,Neukölln,4,8
 11266,none,52.49604,13.31161,Apartment,Private room,1,1.0,1.0,38.0,Wilmersdorf,3,14
@@ -9954,7 +9893,6 @@
 11494,none,52.530519999999996,13.4307,Apartment,Private room,2,1.0,1.0,59.0,Prenzlauer Berg,2,1125
 11495,none,52.47875,13.441920000000001,Apartment,Private room,2,1.5,1.0,34.0,Neukölln,2,14
 11496,none,52.5199,13.403360000000001,Apartment,Entire home/apt,2,1.0,1.0,100.0,Mitte,3,1125
-11497,none,52.47878000000001,13.44793,Apartment,Private room,1,1.0,1.0,14.0,Neukölln,2,1125
 11498,none,52.48831,13.461160000000001,Apartment,Private room,1,1.0,1.0,15.0,Plänterwald,3,5
 11499,none,52.509840000000004,13.622979999999998,Guesthouse,Entire home/apt,2,0.5,1.0,40.0,Mahlsdorf,7,360
 11500,none,52.53677,13.410770000000001,Apartment,Entire home/apt,5,2.0,2.0,165.0,Prenzlauer Berg,2,1125
@@ -10001,7 +9939,6 @@
 11547,none,52.4941,13.366539999999999,Apartment,Private room,2,1.0,1.0,30.0,Schöneberg,2,10
 11548,none,52.50238,13.357610000000001,Apartment,Private room,2,1.0,1.0,35.0,Tiergarten,2,4
 11549,none,52.46354,13.32105,Apartment,Private room,2,1.0,1.0,28.0,Steglitz,2,1125
-11550,none,52.56531,13.38921,Apartment,Private room,2,1.0,1.0,14.0,Wedding,3,12
 11551,none,52.488980000000005,13.37536,Apartment,Private room,2,1.0,1.0,30.0,Kreuzberg,2,1125
 11552,none,52.490730000000006,13.417620000000001,Loft,Private room,2,1.0,1.0,35.0,Kreuzberg,1,1125
 11553,none,52.5433,13.37274,Apartment,Private room,2,1.0,1.0,26.0,Wedding,2,7
@@ -10030,7 +9967,6 @@
 11578,none,52.49337,13.388029999999999,Apartment,Private room,2,1.0,1.0,42.0,Kreuzberg,4,15
 11579,none,52.51801999999999,13.33797,Apartment,Private room,2,2.0,1.0,25.0,Hansaviertel,2,9
 11580,none,52.54656,13.441579999999998,Apartment,Entire home/apt,3,1.0,1.0,30.0,Prenzlauer Berg,5,1125
-11581,none,52.56391,13.37895,Apartment,Private room,1,1.0,1.0,13.0,Wedding,5,34
 11582,none,52.49395,13.41709,Apartment,Private room,3,2.0,1.0,60.0,Kreuzberg,3,6
 11583,none,52.4609,13.3181,Apartment,Entire home/apt,2,1.0,1.0,100.0,Steglitz,1,3
 11585,none,52.52664,13.33501,Apartment,Private room,2,1.0,1.0,15.0,Moabit,1,1125
@@ -10352,7 +10288,6 @@
 11937,none,52.4675,13.437570000000001,Apartment,Private room,2,1.0,1.0,30.0,Neukölln,3,1125
 11939,none,52.54355,13.37432,Apartment,Private room,1,1.0,1.0,19.0,Wedding,2,1125
 11940,none,52.530809999999995,13.38013,Apartment,Entire home/apt,4,1.0,1.0,85.0,Mitte,3,1125
-11941,none,52.55283000000001,13.45185,Apartment,Private room,2,1.0,1.0,13.0,Weißensee,2,8
 11942,none,52.480869999999996,13.43271,Apartment,Private room,4,1.0,1.0,55.0,Neukölln,1,1125
 11943,none,52.53374,13.35338,Apartment,Entire home/apt,2,1.0,1.0,85.0,Moabit,3,180
 11944,none,52.49671,13.30799,Apartment,Private room,2,1.0,1.0,49.0,Wilmersdorf,2,30
@@ -10663,10 +10598,8 @@
 12279,none,52.5528,13.414760000000001,Apartment,Entire home/apt,6,2.0,2.0,125.0,Prenzlauer Berg,3,1124
 12280,none,52.4988,13.465689999999999,Apartment,Entire home/apt,1,1.0,1.0,50.0,Friedrichshain,1,1125
 12281,none,52.51707,13.4535,Apartment,Private room,3,2.0,1.0,32.0,Friedrichshain,2,1125
-12282,none,52.49888000000001,13.45928,Apartment,Private room,1,2.0,1.0,10.0,Friedrichshain,4,1125
 12283,none,52.51085,13.46432,Condominium,Entire home/apt,5,1.0,2.0,140.0,Friedrichshain,1,1125
 12284,none,52.50535,13.50288,House,Entire home/apt,6,2.0,3.0,120.0,Friedrichsfelde,5,1125
-12286,none,52.482490000000006,13.42191,Apartment,Private room,1,1.0,1.0,11.0,Neukölln,1,1125
 12287,none,52.54254,13.421420000000001,Apartment,Entire home/apt,2,1.0,1.0,80.0,Prenzlauer Berg,2,1125
 12288,none,52.52576,13.452679999999999,Apartment,Private room,2,1.0,1.0,45.0,Friedrichshain,2,1125
 12289,none,52.48069,13.43719,Apartment,Entire home/apt,3,1.0,1.0,42.0,Neukölln,3,30
@@ -10686,7 +10619,6 @@
 12307,none,52.48979,13.42135,Apartment,Private room,2,1.0,1.0,40.0,Kreuzberg,2,9
 12308,none,52.55151,13.345360000000001,Apartment,Private room,2,1.0,1.0,65.0,Wedding,2,1125
 12309,none,52.506240000000005,13.30308,Apartment,Private room,2,1.5,1.0,23.0,Charlottenburg,1,7
-12310,none,52.49123,13.42198,Apartment,Private room,1,1.0,1.0,14.0,Kreuzberg,2,10
 12311,none,52.51081,13.47096,Apartment,Entire home/apt,2,1.0,1.0,80.0,Friedrichshain,1,1125
 12312,none,52.47166,13.44685,Apartment,Private room,3,1.0,1.0,33.0,Neukölln,4,20
 12313,none,52.47684,13.4218,Apartment,Private room,2,1.0,1.0,26.0,Neukölln,3,1125
@@ -10703,7 +10635,6 @@
 12326,none,52.525769999999994,13.4027,Apartment,Entire home/apt,2,1.0,1.0,120.0,Mitte,5,1125
 12327,none,52.49523000000001,13.42251,Apartment,Private room,2,1.5,1.0,49.0,Neukölln,2,7
 12328,none,52.51255,13.470170000000001,Apartment,Entire home/apt,3,1.0,0.0,50.0,Friedrichshain,3,1125
-12329,none,52.49624,13.522310000000001,Apartment,Private room,2,1.0,1.0,13.0,Friedrichsfelde,5,10
 12330,none,52.53005,13.34149,Apartment,Private room,2,1.0,1.0,18.0,Moabit,4,1125
 12331,none,52.547830000000005,13.40935,Apartment,Private room,2,1.0,1.0,43.0,Prenzlauer Berg,2,1123
 12332,none,52.54792,13.373439999999999,Apartment,Private room,2,1.0,1.0,20.0,Wedding,4,1125
@@ -10903,7 +10834,6 @@
 12556,none,52.49615,13.38515,Apartment,Private room,2,1.0,1.0,35.0,Kreuzberg,2,30
 12557,none,52.50923,13.45099,Apartment,Entire home/apt,4,1.0,1.0,40.0,Friedrichshain,7,36
 12558,none,52.49681999999999,13.42201,Apartment,Entire home/apt,4,1.0,1.0,120.0,Kreuzberg,1,1125
-12559,none,52.55501999999999,13.336129999999999,Apartment,Private room,1,1.0,1.0,11.0,Wedding,5,1125
 12560,none,52.5428,13.42167,Apartment,Entire home/apt,2,1.0,0.0,65.0,Prenzlauer Berg,3,40
 12561,none,52.48548,13.356639999999999,Apartment,Entire home/apt,2,1.0,1.0,45.0,Schöneberg,6,10
 12562,none,52.535340000000005,13.37451,Apartment,Private room,2,1.0,1.0,50.0,Mitte,4,1125
@@ -10992,7 +10922,6 @@
 12650,none,52.45131,13.437920000000002,Apartment,Entire home/apt,8,1.0,3.0,70.0,Britz,3,9
 12651,none,52.50872,13.45628,Apartment,Private room,2,1.0,1.0,39.0,Friedrichshain,6,35
 12652,none,52.51344,13.467020000000002,House,Private room,4,1.5,1.0,25.0,Friedrichshain,2,1125
-12653,none,52.55969,13.386479999999999,Hostel,Shared room,6,1.0,1.0,14.0,Wedding,2,1125
 12654,none,52.55969,13.386479999999999,Hostel,Private room,3,1.0,1.0,57.0,Wedding,2,1125
 12655,none,52.55969,13.386479999999999,Hostel,Private room,2,1.0,1.0,38.0,Wedding,2,1125
 12656,none,52.487030000000004,13.43467,Apartment,Entire home/apt,3,1.0,1.0,40.0,Neukölln,5,7
@@ -11098,14 +11027,12 @@
 12770,none,52.460190000000004,13.31985,Apartment,Entire home/apt,5,2.0,3.0,120.0,Steglitz,2,1125
 12771,none,52.54105,13.3498,Apartment,Private room,4,1.0,1.0,35.0,Wedding,1,6
 12772,none,52.55174,13.34847,Apartment,Private room,2,1.0,1.0,25.0,Wedding,3,1125
-12774,none,52.55815,13.379610000000001,Apartment,Private room,1,1.5,1.0,13.0,Wedding,5,1125
 12775,none,52.5421,13.43865,Apartment,Private room,2,1.0,1.0,90.0,Prenzlauer Berg,2,10
 12776,none,52.52355,13.457410000000001,Apartment,Private room,4,2.0,1.0,100.0,Prenzlauer Berg,2,15
 12777,none,52.546490000000006,13.41929,Apartment,Entire home/apt,5,1.0,1.0,90.0,Prenzlauer Berg,1,1125
 12778,none,52.53434,13.40896,Apartment,Entire home/apt,4,1.0,2.0,100.0,Prenzlauer Berg,6,1125
 12779,none,52.508359999999996,13.430760000000001,Apartment,Entire home/apt,4,1.5,2.0,40.0,Friedrichshain,2,36
 12780,none,52.50329,13.36885,Apartment,Private room,2,2.0,1.0,30.0,Tiergarten,3,1125
-12781,none,52.55141,13.195689999999999,Apartment,Private room,1,1.0,0.0,13.0,Spandau,3,1125
 12782,none,52.51368000000001,13.43215,Apartment,Entire home/apt,2,1.0,0.0,30.0,Friedrichshain,3,15
 12783,none,52.50107,13.40811,Apartment,Private room,2,1.0,1.0,30.0,Kreuzberg,2,14
 12785,none,52.51023000000001,13.39809,Apartment,Private room,2,1.0,1.0,35.0,Mitte,1,4
@@ -11158,7 +11085,6 @@
 12839,none,52.555659999999996,13.346870000000001,Apartment,Entire home/apt,2,1.0,1.0,40.0,Wedding,3,1125
 12840,none,52.53671,13.39551,Apartment,Entire home/apt,4,1.0,1.0,160.0,Mitte,2,1125
 12841,none,52.527190000000004,13.335379999999999,Apartment,Private room,1,1.0,1.0,25.0,Moabit,4,30
-12843,none,52.51098,13.47304,Apartment,Private room,1,1.0,1.0,13.0,Friedrichshain,2,8
 12844,none,52.55726,13.37616,Apartment,Entire home/apt,2,1.0,0.0,39.0,Wedding,4,1125
 12846,none,52.499030000000005,13.35418,Apartment,Entire home/apt,2,1.0,1.0,49.0,Schöneberg,3,180
 12848,none,52.505990000000004,13.358979999999999,Apartment,Entire home/apt,2,1.0,2.0,65.0,Tiergarten,2,1125
@@ -11185,7 +11111,6 @@
 12873,none,52.51341,13.49871,Apartment,Private room,3,1.0,1.0,47.0,Lichtenberg,7,1125
 12874,none,52.47614,13.426820000000001,Apartment,Entire home/apt,4,1.0,2.0,70.0,Neukölln,2,1125
 12875,none,52.5185,13.46075,Apartment,Entire home/apt,3,1.0,1.0,40.0,Friedrichshain,4,1125
-12876,none,52.425959999999996,13.57577,Apartment,Private room,2,1.0,1.0,12.0,Grünau,2,1125
 12877,none,52.5213,13.43875,Condominium,Entire home/apt,2,1.0,1.0,37.0,Friedrichshain,3,14
 12878,none,52.46541,13.426689999999999,Apartment,Entire home/apt,2,1.0,0.0,34.0,Neukölln,2,3
 12879,none,52.5576,13.46809,Apartment,Entire home/apt,1,1.0,1.0,25.0,Weißensee,7,1125
@@ -11246,7 +11171,6 @@
 12937,none,52.47693,13.427170000000002,Apartment,Private room,2,1.0,1.0,39.0,Neukölln,5,30
 12938,none,52.48526999999999,13.44639,Apartment,Entire home/apt,2,1.0,1.0,40.0,Neukölln,2,1125
 12939,none,52.48231,13.42789,Apartment,Entire home/apt,4,1.0,1.0,89.0,Neukölln,4,60
-12940,none,52.497640000000004,13.464020000000001,Apartment,Shared room,1,2.0,1.0,12.0,Friedrichshain,1,16
 12941,none,52.540369999999996,13.416570000000002,Apartment,Entire home/apt,3,1.0,1.0,79.0,Prenzlauer Berg,2,1125
 12942,none,52.56788,13.3988,Condominium,Entire home/apt,4,1.0,1.0,90.0,Pankow,2,1125
 12943,none,52.52616999999999,13.45449,Condominium,Entire home/apt,2,1.0,1.0,85.0,Prenzlauer Berg,1,1125
@@ -11375,7 +11299,6 @@
 13080,none,52.552330000000005,13.361620000000002,Apartment,Private room,1,1.5,1.0,57.0,Wedding,1,1125
 13081,none,52.58834,13.3687,Apartment,Private room,2,1.0,1.0,25.0,Wilhelmsruh,1,35
 13082,none,52.49866,13.4567,Apartment,Entire home/apt,2,1.0,1.0,35.0,Friedrichshain,2,12
-13083,none,52.486959999999996,13.43951,Apartment,Private room,2,1.0,1.0,14.0,Neukölln,1,1125
 13084,none,52.50812,13.480260000000001,Apartment,Private room,2,1.0,1.0,30.0,Lichtenberg,1,1125
 13085,none,52.486959999999996,13.37607,Apartment,Entire home/apt,2,1.5,1.0,32.0,Kreuzberg,7,10
 13086,none,52.51246999999999,13.30034,Apartment,Private room,2,1.0,1.0,24.0,Charlottenburg,3,19
@@ -11630,7 +11553,6 @@
 13365,none,52.49776,13.38384,Apartment,Entire home/apt,11,1.0,3.0,233.0,Kreuzberg,1,1125
 13366,none,52.50179,13.328579999999999,Apartment,Private room,1,2.0,1.0,50.0,Charlottenburg,7,365
 13367,none,52.49581,13.41828,Loft,Entire home/apt,2,1.0,1.0,65.0,Kreuzberg,4,1124
-13368,none,52.52564,13.36718,Apartment,Private room,2,1.0,1.0,1.0,Moabit,1,9
 13369,none,52.53151999999999,13.41619,Apartment,Entire home/apt,3,1.0,1.0,91.0,Prenzlauer Berg,3,1125
 13370,none,52.53035,13.333870000000001,Apartment,Entire home/apt,2,1.0,0.0,35.0,Moabit,4,30
 13372,none,52.48839,13.408610000000001,Apartment,Private room,3,1.0,1.0,59.0,Neukölln,7,14
@@ -11710,7 +11632,6 @@
 13455,none,52.5092,13.473820000000002,Apartment,Private room,2,1.0,1.0,65.0,Friedrichshain,2,1125
 13456,none,52.57524,13.399379999999999,Apartment,Entire home/apt,9,2.0,4.0,160.0,Niederschönhausen,2,1125
 13457,none,52.532790000000006,13.34557,Condominium,Private room,2,1.0,1.0,15.0,Moabit,7,14
-13458,none,52.53913000000001,13.42653,Apartment,Private room,1,1.0,1.0,13.0,Prenzlauer Berg,3,1125
 13459,none,52.4871,13.42985,Apartment,Private room,2,1.0,1.0,40.0,Neukölln,2,1125
 13460,none,52.49418000000001,13.352910000000001,Apartment,Private room,2,1.0,1.0,16.0,Schöneberg,2,1125
 13461,none,52.53088,13.46558,Apartment,Private room,3,1.5,1.0,36.0,Fennpfuhl,1,20
@@ -11723,7 +11644,6 @@
 13470,none,52.48248,13.3626,Apartment,Entire home/apt,4,1.0,2.0,59.0,Schöneberg,2,1125
 13471,none,52.50854,13.45279,Apartment,Private room,2,2.5,2.0,40.0,Friedrichshain,2,1125
 13472,none,52.515390000000004,13.33539,Apartment,Private room,1,1.0,0.0,34.0,Hansaviertel,1,5
-13473,none,52.466969999999996,13.38367,Apartment,Private room,4,1.0,1.0,14.0,Tempelhof,1,7
 13474,none,52.54812,13.41515,Apartment,Entire home/apt,3,1.0,1.0,80.0,Prenzlauer Berg,3,30
 13475,none,52.48246999999999,13.4379,Apartment,Entire home/apt,3,1.0,1.0,51.0,Neukölln,2,1125
 13476,none,52.508269999999996,13.455420000000002,Apartment,Private room,2,1.0,1.0,30.0,Friedrichshain,2,62
@@ -11927,7 +11847,6 @@
 13700,none,52.47448000000001,13.601560000000001,Apartment,Private room,2,1.0,1.0,30.0,Mahlsdorf,3,1125
 13701,none,52.46612,13.43247,Apartment,Private room,2,1.0,1.0,22.0,Neukölln,4,1125
 13702,none,52.53317,13.42366,Apartment,Entire home/apt,2,1.0,1.0,69.0,Prenzlauer Berg,2,1125
-13703,none,52.48976,13.35878,Apartment,Private room,2,1.0,1.0,10.0,Schöneberg,1,7
 13704,none,52.48665,13.3578,Guest suite,Private room,2,2.0,0.0,25.0,Schöneberg,2,10
 13705,none,52.4882,13.375720000000001,Apartment,Entire home/apt,2,1.0,1.0,75.0,Kreuzberg,2,1125
 13706,none,52.47851,13.448020000000001,Apartment,Private room,1,1.0,1.0,17.0,Neukölln,7,13
@@ -11995,7 +11914,6 @@
 13774,none,52.466330000000006,13.49351,Apartment,Private room,3,1.0,1.0,55.0,Baumschulenweg,3,1125
 13775,none,52.5611,13.41637,Apartment,Entire home/apt,1,1.0,0.0,23.0,Pankow,1,1125
 13776,none,52.499069999999996,13.2938,Apartment,Entire home/apt,5,2.0,3.0,150.0,Halensee,7,7
-13777,none,52.4887,13.445720000000001,Apartment,Private room,1,1.0,1.0,14.0,Alt-Treptow,7,10
 13778,none,52.536480000000005,13.43873,Apartment,Private room,1,1.0,1.0,16.0,Prenzlauer Berg,2,7
 13779,none,52.49043,13.3633,Apartment,Entire home/apt,4,1.0,0.0,49.0,Schöneberg,1,1125
 13780,none,52.54115,13.41239,Apartment,Entire home/apt,2,1.0,1.0,40.0,Prenzlauer Berg,3,6
@@ -12083,7 +12001,6 @@
 13876,none,52.540119999999995,13.359420000000002,Apartment,Entire home/apt,4,1.0,1.0,33.0,Wedding,7,23
 13877,none,52.50872,13.46115,Apartment,Entire home/apt,1,1.0,1.0,45.0,Friedrichshain,4,5
 13878,none,52.53589,13.503820000000001,Apartment,Private room,2,1.0,1.0,15.0,Alt-Hohenschönhausen,1,30
-13879,none,52.51628,13.33472,Apartment,Private room,1,1.0,1.0,13.0,Hansaviertel,1,1125
 13880,none,52.52766,13.397639999999999,Apartment,Entire home/apt,6,1.0,2.0,145.0,Mitte,5,30
 13881,none,52.56148,13.36235,Apartment,Entire home/apt,4,1.0,2.0,50.0,Reinickendorf,2,100
 13882,none,52.4953,13.553460000000001,House,Private room,3,2.0,1.0,19.0,Biesdorf,1,30
@@ -12195,14 +12112,12 @@
 14005,none,52.51218000000001,13.29245,Apartment,Entire home/apt,2,1.0,1.0,40.0,Charlottenburg,1,30
 14006,none,52.523030000000006,13.45009,Apartment,Entire home/apt,2,1.0,1.0,55.0,Friedrichshain,2,1000
 14007,none,52.4805,13.362860000000001,Apartment,Private room,1,1.0,1.0,34.0,Schöneberg,5,1125
-14008,none,52.56154,13.36784,Apartment,Private room,1,1.0,1.0,13.0,Reinickendorf,7,30
 14009,none,52.50121,13.365160000000001,Serviced apartment,Hotel room,2,1.0,1.0,109.0,Tiergarten,1,1125
 14011,none,52.470980000000004,13.33356,Apartment,Private room,2,1.0,1.0,45.0,Friedenau,3,1125
 14012,none,52.504419999999996,13.376120000000002,Apartment,Entire home/apt,2,1.0,1.0,30.0,Kreuzberg,1,10
 14013,none,52.50294,13.414810000000001,Apartment,Entire home/apt,2,1.0,1.0,29.0,Kreuzberg,2,1125
 14014,none,52.545230000000004,13.41995,Apartment,Private room,4,1.0,3.0,60.0,Prenzlauer Berg,2,1125
 14015,none,52.519459999999995,13.435770000000002,Apartment,Private room,2,1.0,1.0,28.0,Friedrichshain,2,350
-14016,none,52.482330000000005,13.43849,Apartment,Private room,1,1.0,1.0,14.0,Neukölln,7,15
 14017,none,52.5293,13.44444,Apartment,Entire home/apt,2,1.0,0.0,40.0,Prenzlauer Berg,4,1125
 14018,none,52.464569999999995,13.488829999999998,Apartment,Entire home/apt,1,1.0,1.0,23.0,Baumschulenweg,3,1125
 14020,none,52.53484,13.34208,Apartment,Private room,1,1.0,1.0,50.0,Moabit,3,20
@@ -12340,7 +12255,6 @@
 14166,none,52.559490000000004,13.376570000000001,Apartment,Private room,3,1.0,1.0,20.0,Wedding,1,10
 14167,none,52.471059999999994,13.450220000000002,Apartment,Entire home/apt,6,1.0,3.0,95.0,Neukölln,4,1125
 14169,none,52.559619999999995,13.33663,Apartment,Entire home/apt,2,1.0,1.0,50.0,Wedding,7,22
-14170,none,52.57349,13.311670000000001,Apartment,Entire home/apt,1,1.0,1.0,8.0,Reinickendorf,7,30
 14171,none,52.51229,13.46691,Apartment,Entire home/apt,2,1.0,1.0,40.0,Friedrichshain,5,40
 14172,none,52.49899,13.4195,Apartment,Private room,2,2.0,1.0,17.0,Kreuzberg,5,17
 14173,none,52.520590000000006,13.43875,Apartment,Private room,4,1.0,1.0,56.0,Friedrichshain,2,1125
@@ -12575,7 +12489,6 @@
 14432,none,52.497080000000004,13.359010000000001,Apartment,Entire home/apt,3,1.0,2.0,60.0,Schöneberg,3,1125
 14433,none,52.44988000000001,13.3205,Apartment,Entire home/apt,1,1.0,0.0,25.0,Steglitz,6,44
 14434,none,52.55101,13.401629999999999,Apartment,Private room,2,1.0,1.0,27.0,Prenzlauer Berg,2,150
-14435,none,52.49534,13.5147,Apartment,Private room,1,1.0,1.0,13.0,Friedrichsfelde,5,20
 14437,none,52.49419,13.36161,Condominium,Private room,2,1.0,1.0,40.0,Schöneberg,3,15
 14438,none,52.47261999999999,13.433229999999998,Apartment,Private room,2,1.0,1.0,25.0,Neukölln,3,35
 14439,none,52.552730000000004,13.40535,Apartment,Private room,2,1.0,1.0,55.0,Prenzlauer Berg,1,30
@@ -12638,7 +12551,6 @@
 14508,none,52.544059999999995,13.4418,Apartment,Private room,2,1.0,1.0,48.0,Prenzlauer Berg,3,1125
 14509,none,52.48584,13.37395,Apartment,Entire home/apt,4,1.0,1.0,82.0,Schöneberg,3,14
 14510,none,52.53635,13.401520000000001,Apartment,Entire home/apt,2,1.0,1.0,60.0,Mitte,4,14
-14511,none,52.51789,13.46512,Apartment,Entire home/apt,6,1.0,3.0,9.0,Friedrichshain,1,1125
 14512,none,52.5715,13.311910000000001,Apartment,Private room,2,1.0,1.0,35.0,Reinickendorf,1,20
 14514,none,52.51234,13.31315,Apartment,Private room,3,1.0,1.0,100.0,Charlottenburg,4,1125
 14515,none,52.52162,13.45035,Apartment,Private room,2,1.0,1.0,45.0,Friedrichshain,7,10
@@ -12953,7 +12865,6 @@
 14861,none,52.536080000000005,13.35738,Apartment,Private room,2,1.0,1.0,50.0,Moabit,3,14
 14862,none,52.535630000000005,13.436570000000001,Apartment,Private room,4,1.0,1.0,37.0,Prenzlauer Berg,2,1125
 14863,none,52.45521,13.28527,Apartment,Entire home/apt,6,2.0,3.0,129.0,Dahlem,5,1125
-14864,none,52.46495,13.400529999999998,Apartment,Private room,1,1.0,1.0,14.0,Tempelhof,3,7
 14865,none,52.51651999999999,13.424570000000001,Hostel,Shared room,4,1.0,1.0,110.0,Mitte,1,14
 14867,none,52.51503,13.46067,Apartment,Entire home/apt,3,1.0,2.0,100.0,Friedrichshain,3,1125
 14869,none,52.51115,13.47305,Condominium,Private room,2,1.0,1.0,30.0,Friedrichshain,2,9
@@ -13282,7 +13193,6 @@
 15251,none,52.47191,13.43941,Apartment,Private room,1,0.5,1.0,30.0,Neukölln,3,25
 15252,none,52.53388,13.35945,Apartment,Private room,1,1.0,1.0,31.0,Moabit,2,7
 15253,none,52.525319999999994,13.44945,Apartment,Private room,1,1.0,1.0,60.0,Friedrichshain,2,14
-15256,none,52.55518000000001,13.394120000000001,Apartment,Private room,1,1.0,1.0,14.0,Wedding,7,13
 15257,none,52.469190000000005,13.465679999999999,Apartment,Private room,1,1.0,1.0,25.0,Neukölln,2,30
 15258,none,52.480219999999996,13.4417,Apartment,Private room,2,1.0,1.0,65.0,Neukölln,4,6
 15259,none,52.5147,13.49836,Apartment,Private room,2,1.0,1.0,30.0,Lichtenberg,4,1125
@@ -13861,7 +13771,6 @@
 15889,none,52.48013,13.432720000000002,Apartment,Private room,1,1.0,1.0,35.0,Neukölln,3,30
 15890,none,52.501740000000005,13.479070000000002,Camper/RV,Entire home/apt,2,1.0,1.0,38.0,Rummelsburg,3,15
 15891,none,52.525059999999996,13.33244,Apartment,Entire home/apt,3,1.0,1.0,100.0,Moabit,1,1125
-15892,none,52.57481,13.27515,Guesthouse,Private room,3,1.0,1.0,12.0,Tegel,2,1125
 15893,none,52.516819999999996,13.56514,Apartment,Entire home/apt,2,1.0,1.0,60.0,Biesdorf,5,31
 15894,none,52.51243,13.41722,Apartment,Entire home/apt,2,1.0,1.0,75.0,Mitte,5,5
 15895,none,52.530519999999996,13.40875,Apartment,Private room,2,1.0,1.0,55.0,Prenzlauer Berg,2,10
@@ -14022,7 +13931,6 @@
 16062,none,52.47249,13.43299,Apartment,Private room,1,1.0,1.0,50.0,Neukölln,1,1125
 16063,none,52.55465,13.373220000000002,Apartment,Private room,2,1.0,1.0,25.0,Wedding,3,10
 16064,none,52.47116,13.43396,Apartment,Entire home/apt,2,1.0,0.0,63.0,Neukölln,2,28
-16065,none,52.52856,13.327770000000001,Apartment,Private room,1,1.0,0.0,14.0,Moabit,5,1125
 16066,none,52.50586,13.518989999999999,Apartment,Private room,2,1.0,1.0,43.0,Friedrichsfelde,2,1125
 16067,none,52.52058,13.431410000000001,Apartment,Entire home/apt,2,1.0,1.0,60.0,Friedrichshain,3,1125
 16069,none,52.5021,13.48054,Apartment,Entire home/apt,2,1.0,0.0,42.0,Rummelsburg,1,1125
@@ -14294,7 +14202,6 @@
 16383,none,52.509130000000006,13.454320000000001,Apartment,Private room,1,1.0,1.0,40.0,Friedrichshain,1,4
 16384,none,52.52641,13.39187,Loft,Entire home/apt,5,1.0,2.0,280.0,Mitte,2,1125
 16385,none,52.515390000000004,13.4025,Apartment,Entire home/apt,1,1.0,1.0,45.0,Mitte,3,3
-16388,none,52.545,13.37161,Apartment,Private room,1,1.0,1.0,9.0,Wedding,2,1125
 16389,none,52.53396,13.40114,Apartment,Entire home/apt,5,1.5,2.0,199.0,Mitte,2,16
 16391,none,52.5234,13.45362,Apartment,Private room,2,1.0,1.0,30.0,Friedrichshain,1,1125
 16392,none,52.43623,13.32499,Apartment,Entire home/apt,2,1.0,1.0,35.0,Lichterfelde,5,92
@@ -14628,7 +14535,6 @@
 16777,none,52.54804,13.402370000000001,Apartment,Entire home/apt,4,1.0,2.0,79.0,Prenzlauer Berg,1,1125
 16778,none,52.47085,13.321929999999998,Apartment,Private room,2,1.0,1.0,60.0,Friedenau,2,1125
 16779,none,52.47476999999999,13.427529999999999,Apartment,Entire home/apt,2,1.0,1.0,46.0,Neukölln,5,1125
-16780,none,52.55757,13.56075,Apartment,Private room,2,1.0,1.0,14.0,Marzahn,1,1125
 16781,none,52.551759999999994,13.41285,Apartment,Entire home/apt,4,1.0,1.0,50.0,Prenzlauer Berg,3,30
 16782,none,52.51935,13.456560000000001,Condominium,Entire home/apt,2,1.0,1.0,130.0,Friedrichshain,2,9
 16783,none,52.50411999999999,13.332629999999998,Apartment,Shared room,6,1.0,1.0,74.0,Charlottenburg,1,1125
@@ -14857,7 +14763,6 @@
 17039,none,52.498090000000005,13.4377,Apartment,Private room,2,1.0,1.0,35.0,Kreuzberg,2,30
 17040,none,52.48149,13.44749,Apartment,Entire home/apt,4,1.0,1.0,40.0,Neukölln,7,31
 17041,none,52.48454,13.448170000000001,Apartment,Private room,2,1.0,1.0,30.0,Neukölln,3,140
-17042,none,52.461290000000005,13.440489999999999,Apartment,Shared room,2,1.0,1.0,11.0,Britz,1,7
 17043,none,52.50747,13.32649,Apartment,Entire home/apt,2,1.0,0.0,100.0,Charlottenburg,3,364
 17044,none,52.494319999999995,13.4332,Apartment,Private room,1,1.0,1.0,44.0,Kreuzberg,3,1125
 17045,none,52.5157,13.4604,Apartment,Private room,2,1.0,1.0,90.0,Friedrichshain,2,1125
@@ -15003,7 +14908,6 @@
 17200,none,52.496069999999996,13.42712,Apartment,Private room,2,1.0,1.0,80.0,Kreuzberg,2,1125
 17201,none,52.56025,13.39635,Apartment,Entire home/apt,3,1.0,2.0,70.0,Wedding,7,90
 17202,none,52.49358,13.48533,Boutique hotel,Private room,2,1.0,1.0,80.0,Rummelsburg,4,1125
-17203,none,52.523740000000004,13.32903,Loft,Shared room,4,2.5,1.0,12.0,Moabit,1,60
 17204,none,52.49358,13.48533,Boutique hotel,Private room,2,1.0,1.0,69.0,Rummelsburg,4,1125
 17205,none,52.49358,13.48533,Boutique hotel,Private room,1,1.0,1.0,55.0,Rummelsburg,4,1125
 17206,none,52.493809999999996,13.485570000000001,Boutique hotel,Private room,2,1.0,1.0,69.0,Rummelsburg,4,1125
@@ -15112,7 +15016,6 @@
 17318,none,52.41832,13.44629,Apartment,Entire home/apt,1,1.0,0.0,25.0,Buckow,1,7
 17319,none,52.54094,13.4245,Apartment,Entire home/apt,7,1.0,2.0,140.0,Prenzlauer Berg,6,1125
 17320,none,52.47813000000001,13.426079999999999,Apartment,Entire home/apt,2,1.0,0.0,45.0,Neukölln,2,16
-17321,none,52.52389,13.47727,Apartment,Private room,1,1.0,1.0,13.0,Fennpfuhl,4,1125
 17322,none,52.49825,13.446629999999999,Apartment,Entire home/apt,5,1.0,2.0,190.0,Kreuzberg,4,1125
 17323,none,52.529990000000005,13.32616,Apartment,Private room,1,2.0,1.0,20.0,Moabit,3,60
 17324,none,52.4881,13.345070000000002,Apartment,Private room,1,1.0,1.0,45.0,Schöneberg,2,360
@@ -15129,7 +15032,6 @@
 17338,none,52.485780000000005,13.43025,Apartment,Private room,2,1.0,1.0,65.0,Neukölln,4,1125
 17340,none,52.48243000000001,13.43811,Apartment,Private room,3,1.0,2.0,75.0,Neukölln,2,1125
 17341,none,52.47753,13.4458,Apartment,Entire home/apt,4,1.0,2.0,60.0,Neukölln,5,1125
-17342,none,52.55392,13.37546,Apartment,Private room,1,1.0,1.0,12.0,Wedding,5,1125
 17343,none,52.47691999999999,13.447920000000002,Apartment,Entire home/apt,4,1.0,1.0,70.0,Neukölln,2,1125
 17344,none,52.49119,13.344439999999999,Apartment,Private room,2,1.0,0.0,30.0,Schöneberg,4,30
 17345,none,52.50046,13.417129999999998,Apartment,Private room,1,1.0,1.0,25.0,Kreuzberg,2,14
@@ -15284,7 +15186,6 @@
 17514,none,52.546580000000006,13.35694,Apartment,Entire home/apt,2,1.0,2.0,50.0,Wedding,1,1125
 17515,none,52.479580000000006,13.43462,Serviced apartment,Entire home/apt,6,3.0,2.0,199.0,Neukölln,1,1125
 17516,none,52.54694,13.34842,Apartment,Private room,2,1.0,1.0,28.0,Wedding,1,1125
-17517,none,52.560140000000004,13.39468,Apartment,Private room,2,1.0,1.0,12.0,Wedding,1,4
 17518,none,52.49505,13.42653,Apartment,Entire home/apt,9,2.0,3.0,79.0,Kreuzberg,2,365
 17520,none,52.51286999999999,13.501079999999998,Condominium,Entire home/apt,8,1.0,3.0,149.0,Lichtenberg,3,1125
 17521,none,52.56981999999999,13.3988,Loft,Entire home/apt,2,1.0,1.0,60.0,Pankow,2,1125
@@ -15489,18 +15390,15 @@
 17747,none,52.45867,13.37725,Apartment,Private room,4,1.0,2.0,24.0,Tempelhof,1,1125
 17748,none,52.469359999999995,13.4406,Apartment,Private room,1,1.5,1.0,25.0,Neukölln,3,7
 17749,none,52.55035,13.421779999999998,Apartment,Entire home/apt,4,1.0,2.0,136.0,Prenzlauer Berg,3,1125
-17750,none,52.52094,13.28793,Apartment,Shared room,1,1.0,1.0,10.0,Charlottenburg,1,1125
 17751,none,52.5714,13.416360000000001,Apartment,Entire home/apt,7,1.0,2.0,53.0,Pankow,1,1125
 17752,none,52.536359999999995,13.499360000000001,Apartment,Private room,2,1.0,1.0,25.0,Alt-Hohenschönhausen,3,7
 17753,none,52.525090000000006,13.407770000000001,Apartment,Entire home/apt,4,1.0,1.0,128.0,Mitte,3,28
 17755,none,52.476530000000004,13.4374,Apartment,Private room,2,1.5,1.0,35.0,Neukölln,2,30
 17756,none,52.49735,13.465060000000001,Apartment,Entire home/apt,2,1.0,1.0,60.0,Friedrichshain,1,6
-17757,none,52.57499,13.397960000000001,Apartment,Private room,1,1.5,1.0,14.0,Niederschönhausen,3,1125
 17758,none,52.44772,13.385689999999999,Apartment,Entire home/apt,14,2.0,3.0,191.0,Mariendorf,1,1125
 17759,none,52.517309999999995,13.46861,Apartment,Entire home/apt,2,1.0,1.0,50.0,Friedrichshain,5,20
 17761,none,52.5419,13.414489999999999,Apartment,Entire home/apt,2,1.0,1.0,20.0,Prenzlauer Berg,1,41
 17762,none,52.495430000000006,13.411589999999999,Apartment,Entire home/apt,2,1.0,0.0,60.0,Kreuzberg,3,14
-17763,none,52.549640000000004,13.349179999999999,Apartment,Shared room,1,1.0,1.0,10.0,Wedding,2,21
 17764,none,52.50846,13.46694,Apartment,Private room,2,1.0,1.0,25.0,Friedrichshain,2,14
 17766,none,52.4777,13.44869,Apartment,Entire home/apt,3,1.0,1.0,80.0,Neukölln,3,13
 17767,none,52.559740000000005,13.37682,Apartment,Private room,3,1.0,0.0,35.0,Wedding,1,7
@@ -15579,7 +15477,6 @@
 17845,none,52.48979,13.3186,Apartment,Private room,2,1.0,1.0,30.0,Wilmersdorf,2,1125
 17846,none,52.49248000000001,13.28841,Apartment,Private room,2,1.0,1.0,35.0,Grunewald,1,1125
 17847,none,52.515159999999995,13.42735,Apartment,Entire home/apt,1,1.0,1.0,80.0,Friedrichshain,1,3
-17848,none,52.49985,13.34325,Apartment,Entire home/apt,2,1.0,1.0,10.0,Schöneberg,3,60
 17849,none,52.512840000000004,13.454239999999999,Apartment,Entire home/apt,2,1.0,1.0,100.0,Friedrichshain,5,20
 17850,none,52.48311999999999,13.43055,Apartment,Private room,2,1.0,1.0,40.0,Neukölln,2,1125
 17851,none,52.557109999999994,13.4136,Apartment,Private room,2,1.0,1.0,30.0,Prenzlauer Berg,7,60
@@ -15613,7 +15510,6 @@
 17887,none,52.4929,13.431339999999999,Apartment,Private room,2,1.0,1.0,25.0,Kreuzberg,2,1125
 17888,none,52.54064,13.444339999999999,Apartment,Entire home/apt,2,1.0,1.0,35.0,Prenzlauer Berg,2,1125
 17889,none,52.4803,13.422379999999999,Apartment,Private room,2,2.0,1.0,23.0,Neukölln,3,7
-17891,none,52.5092,13.44726,Hostel,Shared room,10,0.0,1.0,13.0,Friedrichshain,1,14
 17892,none,52.49126999999999,13.361020000000002,Apartment,Private room,2,1.0,1.0,30.0,Schöneberg,2,10
 17893,none,52.52386,13.43585,Apartment,Entire home/apt,2,1.0,1.0,39.0,Friedrichshain,2,300
 17894,none,52.49315,13.394689999999999,Loft,Private room,1,1.0,1.0,40.0,Kreuzberg,2,1125
@@ -15785,7 +15681,6 @@
 18086,none,52.54744,13.41825,Apartment,Entire home/apt,2,1.0,1.0,80.0,Prenzlauer Berg,2,30
 18088,none,52.50475,13.308589999999999,Apartment,Private room,3,1.0,1.0,29.0,Charlottenburg,3,30
 18089,none,52.52723,13.392870000000002,Apartment,Entire home/apt,4,1.0,2.0,90.0,Mitte,1,1125
-18090,none,52.56089,13.372489999999999,Apartment,Private room,1,1.0,1.0,10.0,Reinickendorf,7,1125
 18091,none,52.49259,13.44636,Apartment,Private room,2,1.0,1.0,30.0,Alt-Treptow,3,1125
 18092,none,52.535019999999996,13.40845,Apartment,Entire home/apt,6,1.0,2.0,91.0,Prenzlauer Berg,1,1125
 18093,none,52.533919999999995,13.35074,Apartment,Entire home/apt,2,1.0,1.0,58.0,Moabit,1,365
@@ -15816,7 +15711,6 @@
 18121,none,52.60025,13.34111,Bungalow,Private room,2,1.0,1.0,23.0,Wittenau,2,30
 18122,none,52.55146,13.4245,Apartment,Private room,2,1.0,1.0,49.0,Prenzlauer Berg,4,10
 18123,none,52.521319999999996,13.302679999999999,Apartment,Entire home/apt,4,1.0,2.0,70.0,Charlottenburg,3,1125
-18124,none,52.50745,13.44776,Apartment,Private room,3,1.0,1.0,12.0,Friedrichshain,1,6
 18125,none,52.529309999999995,13.41492,Apartment,Entire home/apt,3,1.0,2.0,59.0,Prenzlauer Berg,4,1125
 18126,none,52.61954,13.296520000000001,House,Private room,2,1.0,1.0,35.0,Hermsdorf,3,21
 18127,none,52.49831999999999,13.28977,Apartment,Private room,2,1.0,1.0,70.0,Halensee,1,30
@@ -15967,7 +15861,6 @@
 18291,none,52.51339,13.469570000000001,Apartment,Private room,2,1.0,1.0,40.0,Friedrichshain,2,1125
 18293,none,52.500769999999996,13.43493,Apartment,Entire home/apt,2,1.0,1.0,40.0,Kreuzberg,6,1125
 18294,none,52.55056,13.41945,Apartment,Private room,1,1.0,1.0,20.0,Prenzlauer Berg,6,1125
-18295,none,52.46614,13.43051,Apartment,Private room,1,1.0,1.0,13.0,Neukölln,3,1125
 18296,none,52.479459999999996,13.598989999999999,Apartment,Entire home/apt,4,1.0,2.0,65.0,Mahlsdorf,2,1125
 18297,none,52.55328000000001,13.468229999999998,Apartment,Entire home/apt,2,1.0,1.0,49.0,Weißensee,2,1125
 18298,none,52.50776,13.44904,Apartment,Private room,2,1.0,1.0,15.0,Friedrichshain,1,1
@@ -15986,7 +15879,6 @@
 18313,none,52.497780000000006,13.42615,Apartment,Entire home/apt,4,1.0,1.0,85.0,Kreuzberg,1,365
 18314,none,52.48653,13.439070000000001,Apartment,Entire home/apt,6,1.0,2.0,125.0,Neukölln,3,1125
 18315,none,52.55234,13.467979999999999,Apartment,Entire home/apt,2,1.0,0.0,45.0,Weißensee,2,1125
-18316,none,52.4689,13.492579999999998,Apartment,Private room,1,1.0,1.0,12.0,Baumschulenweg,3,1125
 18317,none,52.557069999999996,13.45457,Apartment,Entire home/apt,4,1.0,2.0,110.0,Weißensee,2,1125
 18318,none,52.55559,13.37906,Apartment,Private room,2,1.0,1.0,30.0,Wedding,3,7
 18319,none,52.492819999999995,13.475879999999998,Condominium,Entire home/apt,2,1.0,0.0,54.0,Friedrichshain,4,30
@@ -15994,7 +15886,6 @@
 18321,none,52.53119,13.39345,Apartment,Private room,2,1.5,1.0,55.0,Mitte,7,1125
 18322,none,52.532109999999996,13.39308,Apartment,Entire home/apt,3,1.0,2.0,299.0,Mitte,3,1125
 18323,none,52.46416,13.43866,Apartment,Entire home/apt,2,1.0,2.0,70.0,Neukölln,6,1125
-18325,none,52.47261999999999,13.314910000000001,Apartment,Private room,1,1.5,1.0,14.0,Wilmersdorf,1,1125
 18326,none,52.457840000000004,13.44462,Apartment,Entire home/apt,3,1.0,1.0,55.0,Britz,1,2
 18327,none,52.55546,13.39321,Apartment,Private room,2,1.0,1.0,35.0,Wedding,2,1125
 18328,none,52.490759999999995,13.42411,Apartment,Private room,2,1.5,1.0,48.0,Neukölln,2,6
@@ -16555,7 +16446,6 @@
 18942,none,52.5475,13.41151,Loft,Entire home/apt,2,1.0,0.0,120.0,Prenzlauer Berg,5,180
 18943,none,52.54081,13.394120000000001,Apartment,Entire home/apt,1,1.0,1.0,55.0,Wedding,2,1125
 18944,none,52.47667,13.420160000000001,Apartment,Private room,1,1.0,1.0,25.0,Neukölln,3,1125
-18945,none,52.490880000000004,13.45111,Apartment,Private room,1,1.0,1.0,12.0,Alt-Treptow,2,7
 18946,none,52.52584,13.31685,Apartment,Entire home/apt,2,1.0,0.0,95.0,Moabit,2,1125
 18947,none,52.50999,13.459270000000002,Apartment,Entire home/apt,6,1.0,2.0,90.0,Friedrichshain,1,1125
 18948,none,52.47611,13.45369,Apartment,Private room,1,1.0,1.0,33.0,Neukölln,1,31
@@ -16684,7 +16574,6 @@
 19087,none,52.50354,13.3836,Apartment,Entire home/apt,8,1.0,1.0,112.0,Kreuzberg,1,1125
 19088,none,52.4905,13.34521,Apartment,Private room,2,1.0,1.0,28.0,Schöneberg,3,14
 19089,none,52.52981,13.42695,Condominium,Entire home/apt,6,1.5,3.0,290.0,Prenzlauer Berg,5,1125
-19090,none,52.47391,13.325610000000001,Apartment,Private room,2,1.0,1.0,13.0,Friedenau,1,3
 19091,none,52.50558,13.413670000000002,Apartment,Entire home/apt,2,1.0,0.0,75.0,Mitte,2,1125
 19092,none,52.544540000000005,13.41589,Apartment,Entire home/apt,1,1.0,0.0,50.0,Prenzlauer Berg,1,3
 19094,none,52.47705,13.43273,Apartment,Entire home/apt,12,1.0,3.0,70.0,Neukölln,3,1125
@@ -16715,7 +16604,6 @@
 19122,none,52.487480000000005,13.42585,Apartment,Private room,2,1.0,1.0,64.0,Neukölln,3,30
 19123,none,52.4805,13.4331,Apartment,Entire home/apt,5,1.0,2.0,150.0,Neukölln,2,7
 19125,none,52.453030000000005,13.519689999999999,Apartment,Private room,2,1.0,1.0,30.0,Niederschöneweide,1,4
-19126,none,52.4733,13.4497,Apartment,Private room,1,1.5,1.0,14.0,Neukölln,1,6
 19127,none,52.51156999999999,13.46062,Apartment,Private room,2,1.0,1.0,35.0,Friedrichshain,3,7
 19129,none,52.53462,13.403579999999998,Apartment,Private room,2,1.0,0.0,30.0,Mitte,3,7
 19130,none,52.532109999999996,13.43539,Apartment,Entire home/apt,3,1.0,1.0,120.0,Prenzlauer Berg,1,20
@@ -17911,7 +17799,6 @@
 20517,none,52.56504,13.390789999999999,Loft,Entire home/apt,2,1.0,1.0,99.0,Wedding,2,4
 20518,none,52.49936999999999,13.48451,Apartment,Entire home/apt,4,1.0,3.0,60.0,Rummelsburg,2,10
 20519,none,52.549369999999996,13.35728,Apartment,Entire home/apt,2,1.0,1.0,60.0,Wedding,3,1125
-20520,none,52.49564,13.51361,Apartment,Private room,2,1.0,1.0,14.0,Friedrichsfelde,2,1125
 20521,none,52.479130000000005,13.320429999999998,Condominium,Entire home/apt,2,1.0,1.0,42.0,Wilmersdorf,4,60
 20522,none,52.49344,13.43786,Apartment,Entire home/apt,4,1.0,2.0,149.0,Kreuzberg,4,14
 20523,none,52.483380000000004,13.430079999999998,Apartment,Private room,3,1.0,1.0,50.0,Neukölln,1,1125
@@ -18169,7 +18056,6 @@
 20800,none,52.48291999999999,13.356029999999999,Apartment,Private room,1,1.0,1.0,30.0,Schöneberg,4,40
 20801,none,52.48356999999999,13.432889999999999,Apartment,Private room,2,1.0,1.0,28.0,Neukölln,2,9
 20802,none,52.487759999999994,13.33584,Apartment,Entire home/apt,2,1.0,1.0,80.0,Wilmersdorf,1,4
-20803,none,52.50331,13.474479999999998,Apartment,Shared room,1,1.0,1.0,10.0,Rummelsburg,1,1125
 20804,none,52.5289,13.42237,Apartment,Private room,1,1.0,1.0,32.0,Prenzlauer Berg,7,13
 20805,none,52.527930000000005,13.409629999999998,Apartment,Private room,2,1.0,1.0,47.0,Mitte,4,1125
 20806,none,52.550540000000005,13.4425,Apartment,Private room,2,1.0,1.0,19.0,Weißensee,1,1125
@@ -18621,7 +18507,6 @@
 21311,none,52.53856,13.43627,Apartment,Entire home/apt,3,1.0,1.0,80.0,Prenzlauer Berg,2,1125
 21312,none,52.54746,13.35715,Apartment,Private room,2,1.0,1.0,22.0,Wedding,3,1125
 21313,none,52.53055,13.39983,Loft,Entire home/apt,3,1.5,1.0,199.0,Mitte,2,1125
-21314,none,52.49632,13.45275,Loft,Shared room,1,1.0,1.0,12.0,Alt-Treptow,1,1125
 21316,none,52.48134,13.43336,Apartment,Entire home/apt,2,1.0,0.0,40.0,Neukölln,5,365
 21317,none,52.49125,13.403979999999999,Apartment,Private room,1,1.0,1.0,60.0,Kreuzberg,3,1125
 21318,none,52.467690000000005,13.43339,Apartment,Private room,1,1.0,1.0,19.0,Neukölln,2,30
@@ -18645,7 +18530,6 @@
 21340,none,52.546369999999996,13.40285,Apartment,Entire home/apt,2,1.0,1.0,90.0,Prenzlauer Berg,2,1125
 21341,none,52.5538,13.3794,Condominium,Private room,1,2.5,1.0,33.0,Wedding,7,21
 21342,none,52.3478,13.64195,House,Entire home/apt,4,1.0,2.0,100.0,Schmöckwitz,3,1125
-21343,none,52.588390000000004,13.41306,Apartment,Shared room,1,1.5,1.0,12.0,Niederschönhausen,1,1125
 21344,none,52.584230000000005,13.3018,Condominium,Entire home/apt,2,1.0,1.0,36.0,Wittenau,7,1125
 21345,none,52.473119999999994,13.439770000000001,Apartment,Entire home/apt,3,1.0,1.0,80.0,Neukölln,2,1125
 21346,none,52.49918,13.34842,Apartment,Private room,1,1.0,1.0,50.0,Schöneberg,2,1125
@@ -19538,7 +19422,6 @@
 22365,none,52.46565,13.3934,Serviced apartment,Entire home/apt,8,1.0,3.0,250.0,Tempelhof,3,1125
 22366,none,52.5176,13.313479999999998,Apartment,Private room,2,1.0,1.0,19.0,Charlottenburg,1,1125
 22367,none,52.63228,13.518170000000001,Apartment,Entire home/apt,1,1.0,0.0,50.0,Buch,1,1125
-22368,none,52.500809999999994,13.34888,Hostel,Shared room,1,5.0,1.0,14.0,Schöneberg,1,30
 22369,none,52.63204,13.517829999999998,Apartment,Entire home/apt,1,1.0,0.0,50.0,Buch,1,54
 22370,none,52.5155,13.3882,Serviced apartment,Entire home/apt,2,1.0,1.0,265.0,Mitte,3,365
 22371,none,52.51856,13.30681,Apartment,Entire home/apt,4,1.0,1.0,109.0,Charlottenburg,2,1125
@@ -19635,10 +19518,8 @@
 22472,none,52.485330000000005,13.432039999999999,Apartment,Entire home/apt,2,1.0,1.0,90.0,Neukölln,2,1125
 22473,none,52.46618,13.4375,Apartment,Entire home/apt,4,1.0,2.0,58.0,Neukölln,2,1125
 22474,none,52.51059,13.409139999999999,Apartment,Private room,2,1.0,1.0,55.0,Mitte,2,1125
-22475,none,52.503009999999996,13.4455,Apartment,Entire home/apt,2,1.0,0.0,10.0,Friedrichshain,3,1125
 22476,none,52.530319999999996,13.401539999999999,Apartment,Entire home/apt,2,1.0,1.0,150.0,Mitte,3,10
 22477,none,52.47814,13.424729999999998,Apartment,Private room,2,1.0,1.0,59.0,Neukölln,5,30
-22478,none,52.50485,13.34704,Apartment,Entire home/apt,3,1.0,0.0,10.0,Tiergarten,4,1125
 22479,none,52.51236,13.419039999999999,Apartment,Private room,2,2.0,1.0,39.0,Mitte,1,1125
 22480,none,52.530680000000004,13.38631,Apartment,Entire home/apt,2,1.0,1.0,120.0,Mitte,4,1125
 22481,none,52.5499,13.34585,Apartment,Private room,2,1.0,1.0,26.0,Wedding,5,1125
@@ -19806,7 +19687,6 @@
 22667,none,52.54444,13.41131,Apartment,Private room,1,1.0,1.0,65.0,Prenzlauer Berg,6,40
 22668,none,52.53479,13.431820000000002,Apartment,Entire home/apt,2,1.0,1.0,90.0,Prenzlauer Berg,2,1125
 22669,none,52.45994,13.52021,Apartment,Private room,2,2.0,1.0,20.0,Oberschöneweide,6,29
-22670,none,52.48879,13.45493,House,Private room,1,1.5,1.0,13.0,Alt-Treptow,3,1125
 22671,none,52.503209999999996,13.4492,Apartment,Entire home/apt,3,1.0,1.0,75.0,Friedrichshain,3,1125
 22672,none,52.499669999999995,13.50885,Apartment,Entire home/apt,4,1.0,1.0,69.0,Friedrichsfelde,2,1125
 22673,none,52.50869,13.46768,Loft,Entire home/apt,4,1.0,1.0,55.0,Friedrichshain,3,1125
@@ -19837,7 +19717,6 @@
 22712,none,52.4771,13.432879999999999,Apartment,Entire home/apt,3,1.0,1.0,55.0,Neukölln,2,1125
 22713,none,52.52851,13.41174,Bed and breakfast,Private room,1,1.0,1.0,65.0,Prenzlauer Berg,1,10
 22714,none,52.54084,13.43736,Apartment,Private room,2,1.0,1.0,24.0,Prenzlauer Berg,3,14
-22718,none,52.55175,13.357420000000001,Apartment,Shared room,1,1.0,1.0,12.0,Wedding,1,2
 22719,none,52.535990000000005,13.40533,Apartment,Entire home/apt,4,1.0,1.0,79.0,Mitte,4,1125
 22724,none,52.547540000000005,13.40381,Apartment,Entire home/apt,2,1.0,1.0,52.0,Prenzlauer Berg,3,5
 22725,none,52.565,13.331529999999999,House,Private room,3,1.0,1.0,50.0,Reinickendorf,1,1125
@@ -20169,7 +20048,6 @@
 23092,none,52.55424,13.406789999999999,Apartment,Entire home/apt,2,1.0,1.0,69.0,Prenzlauer Berg,3,1125
 23093,none,52.54096,13.36043,Apartment,Private room,4,2.0,1.0,45.0,Wedding,1,60
 23094,none,52.541619999999995,13.36224,Apartment,Private room,2,3.0,1.0,45.0,Wedding,1,60
-23096,none,52.643240000000006,13.48894,Apartment,Private room,1,1.0,0.0,12.0,Buch,1,1125
 23097,none,52.48344,13.42208,Apartment,Entire home/apt,3,1.0,1.0,32.0,Neukölln,3,1125
 23098,none,52.51043000000001,13.4574,Apartment,Entire home/apt,2,1.0,2.0,120.0,Friedrichshain,2,365
 23099,none,52.495830000000005,13.399870000000002,Apartment,Entire home/apt,5,1.0,2.0,70.0,Kreuzberg,3,1125
@@ -20190,10 +20068,8 @@
 23116,none,52.46148,13.42869,Apartment,Private room,2,1.0,1.0,40.0,Britz,1,3
 23117,none,52.55255,13.415870000000002,Apartment,Entire home/apt,2,1.0,1.0,65.0,Prenzlauer Berg,2,1125
 23118,none,52.529090000000004,13.33501,Apartment,Entire home/apt,2,1.0,0.0,50.0,Moabit,3,1125
-23119,none,52.64521,13.48966,Apartment,Private room,1,1.0,0.0,12.0,Buch,1,1125
 23120,none,52.547909999999995,13.42997,Apartment,Private room,2,1.0,1.0,26.0,Prenzlauer Berg,2,1125
 23121,none,52.496,13.3436,Apartment,Private room,2,1.0,1.0,70.0,Schöneberg,1,8
-23123,none,52.64488000000001,13.4901,Apartment,Private room,1,1.0,0.0,12.0,Buch,1,1125
 23124,none,52.46938000000001,13.43126,Apartment,Private room,1,1.0,1.0,25.0,Neukölln,5,200
 23125,none,52.42368,13.32668,House,Entire home/apt,1,1.0,1.0,38.0,Lichterfelde,3,1125
 23126,none,52.510090000000005,13.40148,Apartment,Private room,4,1.0,1.0,45.0,Mitte,1,1125
@@ -20555,7 +20431,6 @@
 23548,none,52.50935,13.3254,Apartment,Entire home/apt,3,1.0,0.0,39.0,Charlottenburg,7,20
 23549,none,52.51971999999999,13.40577,Apartment,Entire home/apt,7,1.0,3.0,70.0,Mitte,2,1125
 23550,none,52.5083,13.37699,Apartment,Entire home/apt,4,1.0,1.0,50.0,Tiergarten,2,1125
-23551,none,52.456419999999994,13.3864,Apartment,Entire home/apt,2,1.0,1.0,10.0,Tempelhof,1,1125
 23552,none,52.44331999999999,13.316939999999999,Apartment,Shared room,2,1.0,1.0,38.0,Lichterfelde,2,1125
 23553,none,52.485040000000005,13.43234,Apartment,Entire home/apt,3,1.0,1.0,70.0,Neukölln,3,1125
 23554,none,52.41339,13.56291,Apartment,Entire home/apt,2,1.0,1.0,30.0,Altglienicke,3,1125
@@ -20677,7 +20552,6 @@
 23690,none,52.54906999999999,13.497910000000001,Apartment,Private room,2,1.0,1.0,30.0,Alt-Hohenschönhausen,1,1125
 23691,none,52.55659,13.37455,Apartment,Private room,2,1.0,1.0,35.0,Wedding,2,7
 23692,none,52.51173000000001,13.45723,Serviced apartment,Private room,2,1.0,0.0,89.0,Friedrichshain,3,1125
-23694,none,52.463609999999996,13.47176,Apartment,Private room,1,1.5,1.0,12.0,Neukölln,1,20
 23695,none,52.54871,13.360970000000002,Apartment,Private room,1,1.0,1.0,30.0,Wedding,4,14
 23696,none,52.50505,13.37716,Apartment,Shared room,6,1.0,1.0,30.0,Kreuzberg,1,20
 23699,none,52.47922,13.326579999999998,Apartment,Entire home/apt,2,1.0,1.0,59.0,Wilmersdorf,1,1125
@@ -20706,7 +20580,6 @@
 23728,none,52.47825,13.421879999999998,Apartment,Private room,2,1.0,1.0,30.0,Neukölln,2,1125
 23729,none,52.55549,13.348020000000002,Apartment,Private room,2,1.0,1.0,35.0,Wedding,2,1125
 23730,none,52.52349,13.401929999999998,Loft,Entire home/apt,4,1.5,2.0,190.0,Mitte,3,1125
-23731,none,52.43046999999999,13.33774,Apartment,Shared room,1,1.0,1.0,12.0,Lankwitz,3,1125
 23733,none,52.487809999999996,13.428939999999999,Apartment,Entire home/apt,2,1.0,1.0,75.0,Neukölln,3,61
 23734,none,52.531259999999996,13.38095,Apartment,Entire home/apt,2,1.5,1.0,75.0,Mitte,1,1125
 23735,none,52.48924,13.33129,Apartment,Entire home/apt,2,1.0,1.0,60.0,Wilmersdorf,2,1125
@@ -20753,7 +20626,6 @@
 23782,none,52.4815,13.4529,Apartment,Private room,2,1.0,2.0,80.0,Neukölln,3,7
 23783,none,52.49426,13.298979999999998,Apartment,Entire home/apt,1,1.0,1.0,50.0,Halensee,3,5
 23784,none,52.48774,13.42769,Apartment,Entire home/apt,3,1.0,2.0,80.0,Neukölln,7,7
-23786,none,52.55934,13.379539999999999,Hostel,Shared room,1,1.0,1.0,11.0,Wedding,1,1125
 23787,none,52.51322,13.43795,Apartment,Private room,2,1.0,1.0,30.0,Friedrichshain,1,2
 23788,none,52.52799,13.386829999999998,Apartment,Entire home/apt,2,1.0,1.0,99.0,Mitte,2,1125
 23789,none,52.55353,13.38165,Apartment,Entire home/apt,3,1.0,0.0,45.0,Wedding,2,1125
@@ -21108,7 +20980,6 @@
 24207,none,52.52855,13.44551,Serviced apartment,Entire home/apt,3,1.0,1.0,27.0,Prenzlauer Berg,1,365
 24208,none,52.53286,13.36771,Apartment,Entire home/apt,6,1.0,1.0,140.0,Moabit,1,60
 24209,none,52.52756,13.38809,Apartment,Entire home/apt,2,1.0,1.0,65.0,Mitte,3,1125
-24210,none,52.529309999999995,13.317,Apartment,Private room,1,1.0,1.0,14.0,Moabit,7,1125
 24211,none,52.502390000000005,13.298129999999999,Apartment,Private room,2,1.5,1.0,50.0,Charlottenburg,3,1125
 24212,none,52.50114,13.299929999999998,Apartment,Private room,1,1.5,1.0,40.0,Charlottenburg,3,1125
 24214,none,52.509809999999995,13.4563,Loft,Private room,2,1.0,1.0,41.0,Friedrichshain,1,1125
@@ -21185,7 +21056,6 @@
 24293,none,52.52841,13.34419,Hostel,Private room,6,1.0,1.0,150.0,Moabit,1,1125
 24294,none,52.54375,13.45105,Apartment,Private room,1,1.0,1.0,15.0,Prenzlauer Berg,2,14
 24296,none,52.555719999999994,13.432929999999999,Apartment,Entire home/apt,4,1.0,1.0,80.0,Weißensee,2,14
-24298,none,52.42821,13.320070000000001,Apartment,Private room,1,1.0,1.0,14.0,Lichterfelde,3,1125
 24299,none,52.50581999999999,13.46657,Apartment,Entire home/apt,2,1.0,1.0,73.0,Friedrichshain,4,19
 24301,none,52.58371999999999,13.398370000000002,Apartment,Private room,2,1.0,1.0,50.0,Niederschönhausen,1,7
 24302,none,52.54665,13.3793,Apartment,Private room,3,1.0,1.0,25.0,Wedding,1,1125
@@ -21424,7 +21294,6 @@
 24636,none,52.579809999999995,13.444070000000002,Bungalow,Entire home/apt,2,1.0,0.0,119.0,Heinersdorf,1,1125
 24638,none,52.51076,13.40831,Apartment,Entire home/apt,4,1.0,1.0,70.0,Mitte,5,1125
 24639,none,52.497609999999995,13.426479999999998,Apartment,Entire home/apt,4,1.0,1.0,110.0,Kreuzberg,1,1125
-24640,none,52.52465,13.3207,Loft,Shared room,8,2.0,1.0,10.0,Moabit,1,20
 24641,none,52.504369999999994,13.585289999999999,Bed and breakfast,Private room,2,1.0,1.0,58.0,Kaulsdorf,3,30
 24642,none,52.51336,13.55437,Apartment,Entire home/apt,2,1.0,1.0,50.0,Biesdorf,2,60
 24643,none,52.37543,13.62948,House,Entire home/apt,6,2.0,2.0,110.0,Schmöckwitz,2,1125
